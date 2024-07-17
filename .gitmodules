@@ -1,0 +1,18 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/geppaku"]
+	path = themes/geppaku
+	url = git@github.com:masa0221/hugo-theme-geppaku.git
+[submodule "themes/geppaku-kooge"]
+	path = themes/geppaku-kooge
+	url = git@github.com:koooge/hugo-theme-geppaku.git
+[submodule "themes/spectral"]
+	path = themes/spectral
+	url = git@github.com:sbruder/spectral.git
+[submodule "themes/sbruder-spectral"]
+	path = themes/sbruder-spectral
+	url = git@github.com:siliconguilleries/sbruder-spectral.git
+[submodule "themes/spectral-zeitoun"]
+	path = themes/spectral-zeitoun
+	url = git@github.com:PhilippeZeitoun/spectral-theme.git
