@@ -1,119 +1,153 @@
 baseURL = "/"
-title = "Spectral"
-languageCode = "en-us"
-defaultContentLanguage = "en"
+title = "株式会社IoTone Japan"
+languageCode = "ja-JP"
+defaultContentLanguage = "ja"
 paginate = "7"
-theme = "spectral"
+theme = "spectral-zeitoun"
 #googleAnalytics = "G-XXXXXXXXXX"
 
 [params]
-fancyTitle = "Spectral" # title for frontpage, may include image
-copyright = "John Doe"
-description = 'Another fine responsive<br />site template freebie<br />crafted by <a href="http://html5up.net">HTML5 UP</a>.<br />Ported to <a href="//gohugo.io">Hugo</a> by Simon Bruder.'
-startbuttonText = "Activate"
-startbuttonLink = "#"
+# fancytitle = '<img height="128" src="/images/logo.svg" alt="Logo"/><br />Kegelschiene'
+fancyTitle = '<img height="128" src="/images/IoToneFontIcon.svg" alt="Logo"/><br />Japan' # title for frontpage, may include image'
+copyright = "株式会社IoTone Japan"
+description = 'Unified Human Intelligence'
+# startbuttonText = "Activate"
+startbuttonLink = "#contact"
 body_is_markdown = true
 #custom_css = "foo.css"
 #custom_sass = "bar.scss"
 #images = ["path_to_social_image_for_link_previews.jpg"]
 
-[[params.menu.main]]
+[languages.en]
+weight = 10
+languageName = "English"
+# description = 'Contact us for sales or information'
+startbuttonText = "Contact"
+
+[languages.ja]
+weight = 0
+languageName = "Japanese"
+# description = 'Contact'
+startbuttonText = "お問い合わせ"
+
+[[languages.en.params.menu.main]]
 url = '/'
 title = "Home"
 
-[[params.menu.main]]
-url = '/posts/'
-title = "Posts"
+# [[languages.en.params.menu.main]]
+# url = '/posts/'
+# title = "Posts"
+
+[[languages.ja.params.menu.main]]
+url = '/'
+title = "ホーム"
+
+# [[languages.ja.params.menu.main]]
+# url = '/posts/'
+# title = "ニュース"
+
+[[languages.ja.params.menu.main]]
+url = '/services/'
+title = "サービス"
+
+[[languages.ja.params.menu.main]]
+url = '/about/'
+title = "会社概要"
+
+[[languages.ja.params.menu.main]]
+url = '/contact/'
+title = "お問い合わせ"
+
 
 [taxonomies]
     tag = "tags"
     category = "categories"
     series = "series"
 
-[params.one]
-enable = true
-title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
-body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
-'''
+# [params.one]
+# enable = true
+# title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
+# body = '''
+# Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
+# fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+# '''
 
-[[params.one.icon]]
-icon = "fa-gem"
-style = "1"
-label = "Lorem"
+# [[params.one.icon]]
+# icon = "fa-gem"
+# style = "1"
+# label = "Lorem"
 
-[[params.one.icon]]
-icon = "fa-heart"
-style = "2"
-label = "Ipsum"
+# [[params.one.icon]]
+# icon = "fa-heart"
+# style = "2"
+# label = "Ipsum"
 
-[[params.one.icon]]
-icon = "solid fa-code"
-style = "3"
-label = "Dolor"
+# [[params.one.icon]]
+# icon = "solid fa-code"
+# style = "3"
+# label = "Dolor"
 
-[params.two]
-enable = true
+# [params.two]
+# enable = true
 
-[[params.two.section]]
-img = "img/pic01.jpg"
-img_alt = "blurry background: white/grey"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+# [[params.two.section]]
+# img = "img/pic01.jpg"
+# img_alt = "blurry background: white/grey"
+# title = 'Magna primis lobortis<br />sed ullamcorper'
+# body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
-[[params.two.section]]
-img = "img/pic02.jpg"
-title = 'Tortor dolore feugiat<br />elementum magna'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+# [[params.two.section]]
+# img = "img/pic02.jpg"
+# title = 'Tortor dolore feugiat<br />elementum magna'
+# body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
-[[params.two.section]]
-img = "img/pic03.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+# [[params.two.section]]
+# img = "img/pic03.jpg"
+# title = 'Magna primis lobortis<br />sed ullamcorper'
+# body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
-[params.three]
-enable = true
-title = 'Accumsan mus tortor nunc aliquet'
-body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
-'''
+# [params.three]
+# enable = true
+# title = 'Accumsan mus tortor nunc aliquet'
+# body = '''
+# Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
+# fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+# '''
 
-[[params.three.feature]]
-icon = "fa-paper-plane"
-title = "Arcu accumsan"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+# [[params.three.feature]]
+# icon = "fa-paper-plane"
+# title = "Arcu accumsan"
+# body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
-[[params.three.feature]]
-icon = "solid fa-laptop"
-title = "Ac Augue Eget"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+# [[params.three.feature]]
+# icon = "solid fa-laptop"
+# title = "Ac Augue Eget"
+# body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
-[[params.three.feature]]
-icon = "solid fa-code"
-title = "Foo bar"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+# [[params.three.feature]]
+# icon = "solid fa-code"
+# title = "Foo bar"
+# body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
-[[params.three.feature]]
-icon = "solid fa-headphones-alt"
-title = "Baz kram"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+# [[params.three.feature]]
+# icon = "solid fa-headphones-alt"
+# title = "Baz kram"
+# body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
-[[params.three.feature]]
-icon = "fa-heart"
-title = "Some latin text"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+# [[params.three.feature]]
+# icon = "fa-heart"
+# title = "Some latin text"
+# body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
-[[params.three.feature]]
-icon = "fa-flag"
-title = "Nothing important"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+# [[params.three.feature]]
+# icon = "fa-flag"
+# title = "Nothing important"
+# body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
-[params.cta]
-enable = true
-title = "Arcue ut vel commodo"
-body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+# [params.cta]
+# enable = true
+# title = "Arcue ut vel commodo"
+# body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
 
 [[params.cta.link]]
 href = "#"
@@ -125,15 +159,32 @@ href = "#"
 text = "Learn More"
 special = false
 
-[params.contact]
+[languages.en.contact]
 enable = true
 title = "Contact"
 body = "Leave us a message."
-phone = "+49 (0) 030 000 000"
-address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
-email = "nospam@example.com"
+phone = "+81 50 5534 1953"
+address = "福岡市　城南区　茶山　４丁目　7ー12<br />日本<br />"
+shortaddress = "福岡市　城南区　茶山　４丁目　7ー12"
+country = "Japan"
+zipcode = "814-0111"
+email = "info@iotoneai.site"
 subject = "New Submission!"
 formspree_form_id = "example_invalid"
+
+[languages.ja.contact]
+enable = true
+title = "お問い合わせ"
+body = "サービス内容についてのお問い合わせ等は、下記のフォームからお寄せください。"
+phone = "+81 50 5534 1953"
+address = "福岡市城南区茶山４丁目7ー12"
+shortaddress = "福岡市城南区茶山４丁目7ー12"
+country = "日本"
+zipcode = "814-0111"
+email = "info@iotoneai.site"
+subject = "New Submission!"
+formspree_form_id = "example_invalid"
+
 
 [params.social]
 twitter = ""
@@ -146,9 +197,13 @@ dribble = ""
 
 # language specific options
 
-[languages.en]
-weight = 0
-languageName = "English"
+# [languages.ja]
+# weight = 0
+# languageName = "Japanese"
+
+# [languages.en]
+# weight = 10
+# languageName = "English"
 
 [languages.de]
 weight = 10
@@ -157,3 +212,4 @@ languageName = "Deutsch"
 [languages.es]
 weight = 10
 languageName = "Español"
+
