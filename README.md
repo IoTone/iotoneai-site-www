@@ -8,12 +8,22 @@ missing. If you need one, that is not implemented yet, please open an issue!
 
 ## Installation
 
-If this is your first hugo page, please read the [Basic Usage of
-Hugo](https://gohugo.io/getting-started/usage/) article.
+If this is your first hugo page, please read the [Basic Usage of Hugo](https://gohugo.io/getting-started/usage/) article.
 
 Clone this repo or download the zip, place it inside of the `themes` directory
 of your hugo site and use the `config.toml` file located in exampleSite as a
 starting point.
+## Building
+
+Generate
+
+
+    hugo -d ../public
+
+If using https, you will need to specify the domain and https URI:
+
+hugo -d ../public -b https://razortooth.biz
+
 
 ## Examples
 

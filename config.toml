@@ -172,6 +172,7 @@ zipcode = "814-0111"
 email = "info@iotoneai.site"
 subject = "New Submission!"
 formspree_form_id = "example_invalid"
+message_sent = "Message Sent!"
 
 [languages.ja.contact]
 enable = true
@@ -185,7 +186,7 @@ zipcode = "814-0111"
 email = "info@iotoneai.site"
 subject = "New Submission!"
 formspree_form_id = "example_invalid"
-
+message_sent = "メッセージを送信しました"
 
 [params.social]
 twitter = ""
