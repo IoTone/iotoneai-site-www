@@ -22,7 +22,7 @@ Generate
 
 If using https, you will need to specify the domain and https URI:
 
-hugo -d ../public -b https://razortooth.biz
+hugo -d ../public -b https://iotoneai.site
 
 
 ## Examples
