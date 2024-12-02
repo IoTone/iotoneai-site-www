@@ -1,14 +1,14 @@
 ---
-title: "お問い合わせ"
+title: "Contact"
 date: 2017-10-27
 draft: false
 ---
 
-## 本社:
+## Head Office:
 
-〒{{< param contact.zipcode >}}{{< param contact.shortaddress >}}
+〒{{< param contact.zipcode >}}&nbsp;&nbsp;{{< param contact.shortaddress >}}
 
-### お問い合わせ:
+### Contact:
 
 TEL: {{< param contact.phone >}}
 E-Mail: {{< param contact.email >}}

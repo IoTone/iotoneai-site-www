@@ -31,10 +31,6 @@ languageName = "Japanese"
 # description = 'Contact'
 startbuttonText = "お問い合わせ"
 
-[[languages.en.params.menu.main]]
-url = '/'
-title = "Home"
-
 # [[languages.en.params.menu.main]]
 # url = '/posts/'
 # title = "Posts"
@@ -59,6 +55,30 @@ title = "会社概要"
 url = '/contact/'
 title = "お問い合わせ"
 
+[[languages.ja.params.menu.main]]
+url = '/en/'
+title = "English"
+
+[[languages.en.params.menu.main]]
+url = '/en/'
+title = "Home"
+
+
+[[languages.en.params.menu.main]]
+url = '/en/services/'
+title = "Services"
+
+[[languages.en.params.menu.main]]
+url = '/en/about/'
+title = "About"
+
+[[languages.en.params.menu.main]]
+url = '/en/contact/'
+title = "Contact"
+
+[[languages.en.params.menu.main]]
+url = '/ja/'
+title = "日本語"
 
 [taxonomies]
     tag = "tags"

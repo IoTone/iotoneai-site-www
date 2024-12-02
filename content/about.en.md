@@ -1,29 +1,19 @@
 ---
-title: "Pricing"
+title: "About"
 date: 2017-10-27T16:55:13Z
 draft: false
 ---
 
-Kegelschiene
-------------
+Company name: IoTone Japan Co., Ltd.
 
-465&nbsp;€ additional shipping (Germany: 18,50&nbsp;€, Other countries by arrangement)
+---
 
-Bag for the Kegelschiene
-------------------------
+Established: May 29, 2024
 
-75&nbsp;€
+---
 
-Start-Ab
---------
+Business: Development of preventive medical technology using IoT, building new systems that can be linked to security for general residences and home appliances, development of AR and VR, and development of programs that use VR to approach sports, space, and real estate. This involves planning and implementing events and seminars, developing and providing educational services and educational toys.
 
-86&nbsp;€
+---
 
-<p>
-<small>Alle Preise inklusive der gesetzlichen Umsatzsteuer.</small>
-</p>
-<p>
-<small>Kein Umsatzsteuernachweis gemäß <a href="https://www.gesetze-im-internet.de/ustg_1980/__19.html">§ 19 UStG</a></small>
-</p>
-
-[You can order the Kegelschiene and the bag here.](../#contact)
+Banking: PayPay Bank, Nishi-Nippon City Bank, Nanakuma Branch
