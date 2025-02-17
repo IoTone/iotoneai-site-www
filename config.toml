@@ -48,6 +48,14 @@ url = '/services/'
 title = "サービス"
 
 [[languages.ja.params.menu.main]]
+url = '/ja/services/'
+title = "Services"
+
+[[languages.ja.params.menu.main]]
+url = '/ja/events/'
+title = "Events"
+
+[[languages.ja.params.menu.main]]
 url = '/about/'
 title = "会社概要"
 
