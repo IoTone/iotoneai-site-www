@@ -69,12 +69,20 @@ url = '/en/services/'
 title = "Services"
 
 [[languages.en.params.menu.main]]
+url = '/en/events/'
+title = "Events"
+
+[[languages.en.params.menu.main]]
 url = '/en/about/'
 title = "About"
 
 [[languages.en.params.menu.main]]
 url = '/en/contact/'
 title = "Contact"
+
+[[languages.en.params.menu.main]]
+url = '/en/support/'
+title = "Support"
 
 [[languages.en.params.menu.main]]
 url = '/ja/'
@@ -185,11 +193,12 @@ enable = true
 title = "Contact"
 body = "Leave us a message."
 phone = "+81 50 5534 1953"
-address = "福岡市　城南区　茶山　４丁目　7ー12<br />日本<br />"
+address = "4-7-12 Chayama<br />Jonan-ku Fukuoka<br />814-0111<br />Japan<br />"
 shortaddress = "福岡市　城南区　茶山　４丁目　7ー12"
 country = "Japan"
 zipcode = "814-0111"
-email = "info@iotoneai.site"
+email = "info@iotone.jp"
+emailsupport = "support@iotone.jp"
 subject = "New Submission!"
 formspree_form_id = "example_invalid"
 message_sent = "Message Sent!"
@@ -203,7 +212,8 @@ address = "福岡市城南区茶山４丁目7ー12"
 shortaddress = "福岡市城南区茶山４丁目7ー12"
 country = "日本"
 zipcode = "814-0111"
-email = "info@iotoneai.site"
+email = "info@iotone.jp"
+emailsupport = "support@iotone.jp"
 subject = "New Submission!"
 formspree_form_id = "example_invalid"
 message_sent = "メッセージを送信しました"
