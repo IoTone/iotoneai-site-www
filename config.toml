@@ -48,11 +48,15 @@ url = '/services/'
 title = "サービス"
 
 [[languages.ja.params.menu.main]]
-url = '/ja/services/'
-title = "Services"
+url = '/support/'
+title = "Support"
 
 [[languages.ja.params.menu.main]]
-url = '/ja/events/'
+url = '/legal-notice/'
+title = "特定商取引法に基づく表記"
+
+[[languages.ja.params.menu.main]]
+url = '/events/'
 title = "Events"
 
 [[languages.ja.params.menu.main]]
@@ -70,7 +74,6 @@ title = "English"
 [[languages.en.params.menu.main]]
 url = '/en/'
 title = "Home"
-
 
 [[languages.en.params.menu.main]]
 url = '/en/services/'
@@ -91,6 +94,10 @@ title = "Contact"
 [[languages.en.params.menu.main]]
 url = '/en/support/'
 title = "Support"
+
+[[languages.en.params.menu.main]]
+url = '/en/legal-notice/'
+title = "Legal Notice"
 
 [[languages.en.params.menu.main]]
 url = '/ja/'
