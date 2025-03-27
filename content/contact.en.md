@@ -6,9 +6,9 @@ draft: false
 
 ## Head Office:
 
-〒{{ .Site.Params.contact.zipcode }}&nbsp;&nbsp;{{ .Site.Params.contact.shortaddress }}
+〒{{< param contact.zipcode >}}&nbsp;&nbsp;{{< param contact.shortaddress >}}
 
 ### Contact:
 
-TEL: {{ .Site.Params.contact.phone }}
-E-Mail: {{ .Site.Params.contact.email }}
+TEL: {{< param contact.phone >}}
+E-Mail: {{< param contact.email >}}

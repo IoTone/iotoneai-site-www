@@ -86,6 +86,6 @@ IoTone Japan, Inc may make changes to this privacy policy at any time to reflect
 
 Email our Privacy team and Privacy Officer/Data Protection Officer; or send a letter to: IoTone Japan Inc. 
 
-〒{{ .Site.Params.contact.zipcode }}&nbsp;&nbsp;{{ .Site.Params.contact.shortaddress }}
-TEL: {{ .Site.Params.contact.phone }}
-E-Mail: {{ .Site.Params.contact.email }}
+〒{{< param contact.zipcode >}}&nbsp;&nbsp;{{< param contact.shortaddress >}}
+TEL: {{< param contact.phone >}}
+E-Mail: {{< param contact.email >}}

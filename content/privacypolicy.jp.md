@@ -1,5 +1,5 @@
 ---
-title: "Legal Notice Based on the Act on Specified Commercial Transactions"
+title: "Privacy Policy"
 date: 2023-10-10T12:00:00+09:00
 draft: false
 ---

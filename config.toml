@@ -55,7 +55,7 @@ title = "Support"
 url = '/legal-notice/'
 title = "特定商取引法に基づく表記"
 
-[[privacypolicy.ja.params.menu.main]]
+[[languages.ja.params.menu.main]]
 url = '/privacypolicy/'
 title = "プライバシーポリシー"
 
@@ -103,8 +103,8 @@ title = "Support"
 url = '/en/legal-notice/'
 title = "Legal Notice"
 
-[[privacypolicy.en.params.menu.main]]
-url = '/privacypolicy/'
+[[languages.en.params.menu.main]]
+url = '/en/privacypolicy/'
 title = "Privacy Policy"
 
 [[languages.en.params.menu.main]]

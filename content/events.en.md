@@ -13,7 +13,7 @@ IoTone Japan offers a series of technology event sand conferences.
 IoTone Japan co-sponsors and produces the following events
 
 * Tokyo VisionDevCamp 2025 - https://www.vdctokyo.org
-* Tokyo VisionDevCamp 2025 Fukuoka Satellite Event (Coming Soon)
+* [Tokyo VisionDevCamp 2025 Fukuoka Satellite Event](https://visiondevcamp-fukuoka.pages.dev/)
 
 ## Meetups
 

@@ -9,8 +9,8 @@ draft: false
 Customer Service is available to handle issues with your order, handle disputes, and hopefully ensure a satisfactory experience.
 
 
-TEL: {{ < .Site.Params.contact.phone > }}
-E-Mail: {{ < .Site.Params.contact.email > }}
+TEL: {{< param contact.phone >}}
+E-Mail: {{< param contact.email >}}
 
 ## Policies:
 
