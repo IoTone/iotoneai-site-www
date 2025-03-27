@@ -2,7 +2,7 @@ baseURL = "/"
 title = "株式会社IoTone Japan"
 languageCode = "ja-JP"
 defaultContentLanguage = "ja"
-paginate = "7"
+pagination.pagerSize = "7"
 theme = "spectral-zeitoun"
 #googleAnalytics = "G-XXXXXXXXXX"
 
@@ -55,6 +55,10 @@ title = "Support"
 url = '/legal-notice/'
 title = "特定商取引法に基づく表記"
 
+[[privacypolicy.ja.params.menu.main]]
+url = '/privacypolicy/'
+title = "プライバシーポリシー"
+
 [[languages.ja.params.menu.main]]
 url = '/events/'
 title = "Events"
@@ -98,6 +102,10 @@ title = "Support"
 [[languages.en.params.menu.main]]
 url = '/en/legal-notice/'
 title = "Legal Notice"
+
+[[privacypolicy.en.params.menu.main]]
+url = '/privacypolicy/'
+title = "Privacy Policy"
 
 [[languages.en.params.menu.main]]
 url = '/ja/'

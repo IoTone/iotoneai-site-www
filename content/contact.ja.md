@@ -6,11 +6,11 @@ draft: false
 
 ## 本社:
 
-〒{{< param contact.zipcode >}}&nbsp;&nbsp;{{< param contact.shortaddress >}}
+〒{{ .Site.Params.contact.zipcode }}&nbsp;&nbsp;{{ .Site.Params.contact.shortaddress }}
 
 
 
 ### お問い合わせ:
 
-TEL: {{< param contact.phone >}}  
-E-Mail: {{< param contact.email >}}
+TEL: {{ .Site.Params.contact.phone }}  
+E-Mail: {{ .Site.Params.contact.email }}
