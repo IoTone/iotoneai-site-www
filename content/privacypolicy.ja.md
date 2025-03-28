@@ -12,6 +12,7 @@ Last updated: Jan 28, 2025
 ## Services
 
 IoTone Japan Inc. (referred to as IoTone Japan, operating under the brand IoToneAI) offers a suite of social media management tools. These tools are offered as services for managing and analyzing social media feeds. As such, all data received via social networks (Twitter, Facebook, etc.) will additionally be subject to the terms and conditions and privacy policies of the social networks. Social networks will have their own policies for data collection and data retention which should be reviewed by users of IoTone Japan services.
+
 IoTone Japan services operated under the IoToneAI brand are intended for use by individuals above the age of 18 for business or research purposes.
 
 
@@ -85,6 +86,6 @@ IoTone Japan, Inc may make changes to this privacy policy at any time to reflect
 
 Email our Privacy team and Privacy Officer/Data Protection Officer; or send a letter to: IoTone Japan Inc. 
 
-〒{{ .Site.Params.contact.zipcode }}&nbsp;&nbsp;{{ .Site.Params.contact.shortaddress }}
-TEL: {{ .Site.Params.contact.phone }}
-E-Mail: {{ .Site.Params.contact.email }}
+〒{{< param contact.zipcode >}}&nbsp;&nbsp;{{< param contact.shortaddress >}}
+TEL: {{< param contact.phone >}}
+E-Mail: {{< param contact.email >}}
