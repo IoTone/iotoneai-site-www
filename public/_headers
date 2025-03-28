@@ -1,0 +1,18 @@
+/*
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  X-Frame-Options: DENY
+  Referrer-Policy: no-referrer
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+
+/*.jpg
+  Cache-Control: max-age=8035200
+
+/*.svg
+  Cache-Control: max-age=8035200
+
+/*.css
+  Cache-Control: max-age=2678400
+
+/*.js
+  Cache-Control: max-age=2678400
