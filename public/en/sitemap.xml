@@ -2,184 +2,197 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://iotoneai.site/en/legal-notice/</loc>
+    <loc>//localhost:1313/en/legal-notice/</loc>
     <lastmod>2023-10-10T12:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://iotoneai.site/legal-notice/"
+                href="//localhost:1313/legal-notice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iotoneai.site/en/legal-notice/"
+                href="//localhost:1313/en/legal-notice/"
                 />
   </url><url>
-    <loc>https://iotoneai.site/en/privacypolicy/</loc>
+    <loc>//localhost:1313/en/privacypolicy/</loc>
     <lastmod>2023-10-10T12:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://iotoneai.site/privacypolicy/"
+                href="//localhost:1313/privacypolicy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iotoneai.site/en/privacypolicy/"
+                href="//localhost:1313/en/privacypolicy/"
                 />
   </url><url>
-    <loc>https://iotoneai.site/en/</loc>
+    <loc>//localhost:1313/en/termsandconditions/</loc>
+    <lastmod>2023-10-10T12:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="//localhost:1313/termsandconditions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/termsandconditions/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/</loc>
     <lastmod>2023-10-10T12:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://iotoneai.site/de/"
+                href="//localhost:1313/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://iotoneai.site/es/"
+                href="//localhost:1313/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://iotoneai.site/"
+                href="//localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iotoneai.site/en/"
+                href="//localhost:1313/en/"
                 />
   </url><url>
-    <loc>https://iotoneai.site/en/about/</loc>
+    <loc>//localhost:1313/en/about/</loc>
     <lastmod>2017-10-27T16:55:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://iotoneai.site/about/"
+                href="//localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iotoneai.site/en/about/"
+                href="//localhost:1313/en/about/"
                 />
   </url><url>
-    <loc>https://iotoneai.site/en/events/</loc>
+    <loc>//localhost:1313/en/events/</loc>
     <lastmod>2017-10-27T16:55:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://iotoneai.site/events/"
+                href="//localhost:1313/events/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iotoneai.site/en/events/"
+                href="//localhost:1313/en/events/"
                 />
   </url><url>
-    <loc>https://iotoneai.site/en/services/</loc>
+    <loc>//localhost:1313/en/services/</loc>
     <lastmod>2017-10-27T16:55:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://iotoneai.site/services/"
+                href="//localhost:1313/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iotoneai.site/en/services/"
+                href="//localhost:1313/en/services/"
                 />
   </url><url>
-    <loc>https://iotoneai.site/en/contact/</loc>
+    <loc>//localhost:1313/en/contact/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://iotoneai.site/contact/"
+                href="//localhost:1313/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iotoneai.site/en/contact/"
+                href="//localhost:1313/en/contact/"
                 />
   </url><url>
-    <loc>https://iotoneai.site/en/support/</loc>
+    <loc>//localhost:1313/en/support/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://iotoneai.site/support/"
+                href="//localhost:1313/support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iotoneai.site/en/support/"
+                href="//localhost:1313/en/support/"
                 />
   </url><url>
-    <loc>https://iotoneai.site/en/categories/</loc>
+    <loc>//localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://iotoneai.site/de/categories/"
+                href="//localhost:1313/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://iotoneai.site/es/categories/"
+                href="//localhost:1313/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://iotoneai.site/categories/"
+                href="//localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iotoneai.site/en/categories/"
+                href="//localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>https://iotoneai.site/en/series/</loc>
+    <loc>//localhost:1313/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://iotoneai.site/de/series/"
+                href="//localhost:1313/de/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://iotoneai.site/es/series/"
+                href="//localhost:1313/es/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://iotoneai.site/series/"
+                href="//localhost:1313/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iotoneai.site/en/series/"
+                href="//localhost:1313/en/series/"
                 />
   </url><url>
-    <loc>https://iotoneai.site/en/tags/</loc>
+    <loc>//localhost:1313/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://iotoneai.site/de/tags/"
+                href="//localhost:1313/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://iotoneai.site/es/tags/"
+                href="//localhost:1313/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://iotoneai.site/tags/"
+                href="//localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iotoneai.site/en/tags/"
+                href="//localhost:1313/en/tags/"
                 />
   </url>
 </urlset>

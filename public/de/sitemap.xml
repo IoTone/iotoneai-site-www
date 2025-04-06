@@ -2,92 +2,92 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://iotoneai.site/de/categories/</loc>
+    <loc>//localhost:1313/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iotoneai.site/en/categories/"
+                href="//localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://iotoneai.site/es/categories/"
+                href="//localhost:1313/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://iotoneai.site/categories/"
+                href="//localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://iotoneai.site/de/categories/"
+                href="//localhost:1313/de/categories/"
                 />
   </url><url>
-    <loc>https://iotoneai.site/de/series/</loc>
+    <loc>//localhost:1313/de/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iotoneai.site/en/series/"
+                href="//localhost:1313/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://iotoneai.site/es/series/"
+                href="//localhost:1313/es/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://iotoneai.site/series/"
+                href="//localhost:1313/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://iotoneai.site/de/series/"
+                href="//localhost:1313/de/series/"
                 />
   </url><url>
-    <loc>https://iotoneai.site/de/tags/</loc>
+    <loc>//localhost:1313/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iotoneai.site/en/tags/"
+                href="//localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://iotoneai.site/es/tags/"
+                href="//localhost:1313/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://iotoneai.site/tags/"
+                href="//localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://iotoneai.site/de/tags/"
+                href="//localhost:1313/de/tags/"
                 />
   </url><url>
-    <loc>https://iotoneai.site/de/</loc>
+    <loc>//localhost:1313/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iotoneai.site/en/"
+                href="//localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://iotoneai.site/es/"
+                href="//localhost:1313/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://iotoneai.site/"
+                href="//localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://iotoneai.site/de/"
+                href="//localhost:1313/de/"
                 />
   </url>
 </urlset>

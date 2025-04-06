@@ -2,94 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>株式会社IoTone Japan</title>
-    <link>https://iotoneai.site/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on 株式会社IoTone Japan</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 10 Oct 2023 12:00:00 +0900</lastBuildDate>
-    <atom:link href="https://iotoneai.site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy Policy</title>
-      <link>https://iotoneai.site/privacypolicy/</link>
+      <link>//localhost:1313/privacypolicy/</link>
       <pubDate>Tue, 10 Oct 2023 12:00:00 +0900</pubDate>
-      <guid>https://iotoneai.site/privacypolicy/</guid>
+      <guid>//localhost:1313/privacypolicy/</guid>
       <description>&lt;p&gt;Last updated: Jan 28, 2025&lt;/p&gt;&#xA;&lt;h1 id=&#34;iotone-japan-privacy-policy&#34;&gt;IoTone Japan Privacy Policy&lt;/h1&gt;&#xA;&lt;h2 id=&#34;services&#34;&gt;Services&lt;/h2&gt;&#xA;&lt;p&gt;IoTone Japan Inc. (referred to as IoTone Japan, operating under the brand IoToneAI) offers a suite of social media management tools. These tools are offered as services for managing and analyzing social media feeds. As such, all data received via social networks (Twitter, Facebook, etc.) will additionally be subject to the terms and conditions and privacy policies of the social networks. Social networks will have their own policies for data collection and data retention which should be reviewed by users of IoTone Japan services.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>特定商取引法に基づく表記</title>
-      <link>https://iotoneai.site/legal-notice/</link>
+      <title>Terms and Conditions</title>
+      <link>//localhost:1313/termsandconditions/</link>
       <pubDate>Tue, 10 Oct 2023 12:00:00 +0900</pubDate>
-      <guid>https://iotoneai.site/legal-notice/</guid>
+      <guid>//localhost:1313/termsandconditions/</guid>
+      <description>&lt;p&gt;Last updated: April 6, 2025&lt;/p&gt;&#xA;&lt;h1 id=&#34;terms-and-conditions&#34;&gt;Terms and Conditions&lt;/h1&gt;&#xA;&lt;p&gt;TERMS &amp;amp; CONDITIONS&lt;/p&gt;&#xA;&lt;p&gt;PLEASE READ THE FOLLOWING TERMS OF SERVICE AGREEMENT CAREFULLY. BY ACCESSING OR USING OUR WEBSITE (THE “SITE”) OR OUR SERVICES, YOU HEREBY AGREE TO BE BOUND BY THESE TERMS AND CONDITIONS AND ALL TERMS INCORPORATED HEREIN BY REFERENCE. IT IS THE RESPONSIBILITY OF YOU, THE USER, CUSTOMER, OR PROSPECTIVE CUSTOMER TO READ THE TERMS AND CONDITIONS BEFORE PROCEEDING TO USE THIS SITE. IF YOU DO NOT EXPRESSLY AGREE TO ALL OF THE TERMS AND CONDITIONS, THEN PLEASE DO NOT ACCESS OR USE OUR SITE OR OUR SERVICES.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>特定商取引法に基づく表記</title>
+      <link>//localhost:1313/legal-notice/</link>
+      <pubDate>Tue, 10 Oct 2023 12:00:00 +0900</pubDate>
+      <guid>//localhost:1313/legal-notice/</guid>
       <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;事業者の名称&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;株式会社 IoTone Japan&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;所在地&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;福岡市城南区茶山４丁目 7 ー 12&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;電話番号&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;+81 50 5534 1953&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;メールアドレス&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;mailto:info@iotone.jp&#34;&gt;info@iotone.jp&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;運営統括責任者&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;David J Kordsmeier&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;追加手数料等の追加料金&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;契約書に記載の無い場合を除いて追加料金は無い&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;交換および返品&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;契約書に記載の無い限りは役務の性質上返品・返金はしない&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;引渡時期&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;契約締結時&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;受け付け可能な決済手段&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;銀行振込もしくはクレジットカード&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;決済期間&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;クレジットカード決済の場合はただちに処理されますが、国内の銀行振込の場合は請求書に記載の期日&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;販売価格&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;請求書に記載&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://iotoneai.site/posts/markdown-syntax/</link>
+      <link>//localhost:1313/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://iotoneai.site/posts/markdown-syntax/</guid>
+      <guid>//localhost:1313/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rich Content</title>
-      <link>https://iotoneai.site/posts/rich-content/</link>
+      <link>//localhost:1313/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://iotoneai.site/posts/rich-content/</guid>
+      <guid>//localhost:1313/posts/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Placeholder Text</title>
-      <link>https://iotoneai.site/posts/placeholder-text/</link>
+      <link>//localhost:1313/posts/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://iotoneai.site/posts/placeholder-text/</guid>
+      <guid>//localhost:1313/posts/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Math Typesetting</title>
-      <link>https://iotoneai.site/posts/math-typesetting/</link>
+      <link>//localhost:1313/posts/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://iotoneai.site/posts/math-typesetting/</guid>
+      <guid>//localhost:1313/posts/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>https://iotoneai.site/posts/emoji-support/</link>
+      <link>//localhost:1313/posts/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://iotoneai.site/posts/emoji-support/</guid>
+      <guid>//localhost:1313/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Events</title>
-      <link>https://iotoneai.site/events/</link>
+      <link>//localhost:1313/events/</link>
       <pubDate>Fri, 27 Oct 2017 16:55:13 +0000</pubDate>
-      <guid>https://iotoneai.site/events/</guid>
+      <guid>//localhost:1313/events/</guid>
       <description>&lt;h1 id=&#34;iotone-japan-tech-events&#34;&gt;IoTone Japan Tech Events&lt;/h1&gt;&#xA;&lt;p&gt;IoTone Japan offers a series of technology event sand conferences.&lt;/p&gt;&#xA;&lt;h2 id=&#34;conferences&#34;&gt;Conferences&lt;/h2&gt;&#xA;&lt;p&gt;IoTone Japan co-sponsors and produces the following events&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tokyo VisionDevCamp 2025 - &lt;a href=&#34;https://www.vdctokyo.org&#34;&gt;https://www.vdctokyo.org&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://visiondevcamp-fukuoka.pages.dev/&#34;&gt;Tokyo VisionDevCamp 2025 Fukuoka Satellite Event&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;meetups&#34;&gt;Meetups&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(Coming Soon) Fukuoka Meshtastic Club&lt;/li&gt;&#xA;&lt;li&gt;(Coming Soon) Fukuoka Spatial Technology Meetup&lt;/li&gt;&#xA;&lt;li&gt;Fukuoka Burning Man Meetup&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;education-events&#34;&gt;Education Events&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(Coming in Summmer 2025) Silicon Vally STEM Camp @ Fukuoka&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>サービス</title>
-      <link>https://iotoneai.site/services/</link>
+      <link>//localhost:1313/services/</link>
       <pubDate>Fri, 27 Oct 2017 16:55:13 +0000</pubDate>
-      <guid>https://iotoneai.site/services/</guid>
+      <guid>//localhost:1313/services/</guid>
       <description>&lt;h2 id=&#34;業務内容&#34;&gt;業務内容&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;ＩＴソフトウェアの開発、販売及びコンサルティング&lt;/li&gt;&#xA;&lt;li&gt;情報資産管理サービスの提供&lt;/li&gt;&#xA;&lt;li&gt;ＩｏＴによる予防医療技術の開発及びコンサルティング&lt;/li&gt;&#xA;&lt;li&gt;ＩｏＴ及びＡＩを使った生活用品の開発とサービスの提供　　&lt;/li&gt;&#xA;&lt;li&gt;教育サービスの提供及び教育玩具の販売　　&lt;/li&gt;&#xA;&lt;li&gt;ＡＲ及びＶＲの開発及びコンサルティング 　&lt;/li&gt;&#xA;&lt;li&gt;イベント及びセミナーの企画及び実施 　&lt;/li&gt;&#xA;&lt;li&gt;インターネットによる商品の販売&lt;/li&gt;&#xA;&lt;li&gt;人材派遣業 　&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;サービス&#34;&gt;サービス&lt;/h2&gt;&#xA;&lt;p&gt;IT ソフトウェアの開発、販売及びコンサルティング&#xA;IoTone Japan は A I /IoT /モバイル/VR などの IT 関連サービスに注力するエンジニアチーム&#xA;『IoTone チーム AI』を結成し、最新のシリコンバレーの技術を駆使し強い英語力を携え技術サー&#xA;ビス、英語によるセールス、テクニカルフィールドサポートを提供致します。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;IoT を使った予防医療技術の開発&lt;/li&gt;&#xA;&lt;li&gt;一般住居に対するセキュリティーや住居内の家電製品に紐付けできる新たなシステムの構築&lt;/li&gt;&#xA;&lt;li&gt;AR,VR の開発&lt;/li&gt;&#xA;&lt;li&gt;VR を使った運動系、宇宙系、不動産系にアプローチするプログラムの開発 それによるイ&#xA;ベントやセミナーの企画と実施&lt;/li&gt;&#xA;&lt;li&gt;教育サービスや教育玩具の開発とサービス&#xA;子供向け体験型サマーキャンプ（Imagination to Creation）&#xA;基本信念は衣・食・住・遊とし、参加者はキャンプを通し下記の４項目を学ぶことを目指します。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;何をしたら楽しいか（Imagination）&lt;/li&gt;&#xA;&lt;li&gt;いかに遊ぶかの実践&lt;/li&gt;&#xA;&lt;li&gt;遊びを通して作る（Create）&lt;/li&gt;&#xA;&lt;li&gt;間尺の生き方&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;IoTone Japan は、STEM 教育、英語、コーディングに重点を置いた子供向けサマーキャンプスク&#xA;ール「シリコンバレーSTEM キャンプ」を実施致します。&lt;br&gt;&#xA;このプログラムは、「シリコンバレー」のチームコラボレーションに基づいており、そこで学ぶスキ&#xA;ルには、子供たちが協力して作業し、現実世界の問題の解決と探究型学習を通じて学ぶ新しいアプ&#xA;ローチです。&lt;br&gt;&#xA;スタンフォード大学デザイン学部のアイデアである「デザイン思考」や「プロジェクトベース学&#xA;習」の手法を用い英語教育を基本に小学校で必須科目となっているコーディングを含むテクノロジ&#xA;ーを学びます。&lt;br&gt;&#xA;対象は小学校低学年から中学１年生位で、夏休み期間のみ限定で実施予定です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>会社概要</title>
-      <link>https://iotoneai.site/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Fri, 27 Oct 2017 16:55:13 +0000</pubDate>
-      <guid>https://iotoneai.site/about/</guid>
+      <guid>//localhost:1313/about/</guid>
       <description>&lt;p&gt;商号          ＩｏＴｏｎｅ　Ｊａｐａｎ株式会社&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;設立年月日  令和６年５月２9日設立&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;事業内容      IoT を使った予防医療技術の開発、 一般住居に対するセキュリティーや住居内の家電製品に紐付けできる新たなシステムの構築、AR,VR の開発、VR を使った運動系、宇宙系、不動産系にアプローチするプログラムの開発 それによるイ&#xA;ベントやセミナーの企画と実施、教育サービスや教育玩具の開発とサービス&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;取引銀行      西日本シティー銀行　七隈支店&lt;/p&gt;</description>
     </item>
     <item>
       <title>Support</title>
-      <link>https://iotoneai.site/support/</link>
+      <link>//localhost:1313/support/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://iotoneai.site/support/</guid>
+      <guid>//localhost:1313/support/</guid>
       <description>&lt;h2 id=&#34;customer-service&#34;&gt;Customer Service&lt;/h2&gt;&#xA;&lt;p&gt;Customer Service is available to handle issues with your order, handle disputes, and hopefully ensure a satisfactory experience.&lt;/p&gt;&#xA;&lt;p&gt;TEL: &amp;#43;81 50 5534 1953&#xA;E-Mail: info@iotone.jp&lt;/p&gt;&#xA;&lt;h2 id=&#34;policies&#34;&gt;Policies:&lt;/h2&gt;&#xA;&lt;p&gt;IoTone Japan seeks to deliver a satisfactory experience with every purchase of our services.&lt;/p&gt;&#xA;&lt;h3 id=&#34;returns--exchanges&#34;&gt;RETURNS &amp;amp; EXCHANGES&lt;/h3&gt;&#xA;&lt;p&gt;IoTone Japan gladly accepts returns and exchanges on all items received in like-new condition. Review the IoTone Japan Return and Exchange Policy below and then contact &lt;a href=&#34;mailto:returns@iotone.jp&#34;&gt;returns@iotone.jp&lt;/a&gt; with your order number &amp;amp; explanation for your return. We ask that you be as thorough as possible in describing your reason(s) for return, as detailed feedback directly correlates to improvements in both product design and company operations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>お問い合わせ</title>
-      <link>https://iotoneai.site/contact/</link>
+      <link>//localhost:1313/contact/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://iotoneai.site/contact/</guid>
+      <guid>//localhost:1313/contact/</guid>
       <description>&lt;h2 id=&#34;本社&#34;&gt;本社:&lt;/h2&gt;&#xA;&lt;p&gt;〒814-0111  福岡市城南区茶山４丁目7ー12&lt;/p&gt;&#xA;&lt;h3 id=&#34;お問い合わせ&#34;&gt;お問い合わせ:&lt;/h3&gt;&#xA;&lt;p&gt;TEL: &amp;#43;81 50 5534 1953&lt;br&gt;&#xA;E-Mail: info@iotone.jp&lt;/p&gt;</description>
     </item>
   </channel>
