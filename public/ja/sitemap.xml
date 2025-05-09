@@ -8,6 +8,12 @@
     <loc>//localhost:1313/news/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/news/en/</loc>
+    <lastmod>2025-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/news/en/release_snapdeskwindow_ar_april2025/</loc>
+    <lastmod>2025-04-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/news/ja/release_snapdeskwindow_ar_april2025/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -59,6 +65,9 @@
                 hreflang="ja"
                 href="//localhost:1313/"
                 />
+  </url><url>
+    <loc>//localhost:1313/news/en/democes2025/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/news/ja/democes2025/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
@@ -130,13 +139,22 @@
     <loc>//localhost:1313/series/themes-guide/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/news/en/certifiedpartner_rocketmeisterjuly2025/</loc>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/news/ja/certifiedpartner_rocketmeisterjuly2025/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/emoji/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/news/en/visiondevcamp2025_fukuoka_and_tokyo_april2025/</loc>
+    <lastmod>2024-06-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/news/ja/visiondevcamp2025_fukuoka_and_tokyo_april2025/</loc>
+    <lastmod>2024-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/news/en/openjune2024/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/news/ja/openjune2024/</loc>
@@ -180,33 +198,6 @@
                 hreflang="ja"
                 href="//localhost:1313/legal-notice/"
                 />
-  </url><url>
-    <loc>//localhost:1313/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/test/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/events/</loc>
     <lastmod>2017-10-27T16:55:13+00:00</lastmod>

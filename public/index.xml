@@ -10,6 +10,13 @@
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spectacles Desk Window AR Release</title>
+      <link>//localhost:1313/news/en/release_snapdeskwindow_ar_april2025/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/en/release_snapdeskwindow_ar_april2025/</guid>
+      <description>&lt;p&gt;お知らせ：Snap Spectacles ARグラスへのデスクトップミラーリングを実現するオープンソースプロジェクトをリリースしました。プロジェクト名は「Spectacles Desk Window」です。Githubからダウンロードできます。デモはこちら： &lt;a href=&#34;https://github.com/IoTone/SpectaclesDeskWindow/&#34;&gt;https://github.com/IoTone/SpectaclesDeskWindow/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Dx2J5Gqqru0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Spectacles Desk Window AR Release</title>
       <link>//localhost:1313/news/ja/release_snapdeskwindow_ar_april2025/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/news/ja/release_snapdeskwindow_ar_april2025/</guid>
@@ -17,10 +24,24 @@
     </item>
     <item>
       <title>Demo at CES2025</title>
+      <link>//localhost:1313/news/en/democes2025/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/en/democes2025/</guid>
+      <description>&lt;p&gt;ネバダ州ラスベガス: CES2025 のパラッツォ ホテルでデモを開催し、Global Scale Technologies の Cortadobin 製品と Snap Spectacles を使用した RallyMD AR プロジェクト コンセプトを紹介しました。&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://globalscaletechnologies.com/product/cortadobin/&#34;&gt;https://globalscaletechnologies.com/product/cortadobin/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.spectacles.com/&#34;&gt;https://www.spectacles.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Demo at CES2025</title>
       <link>//localhost:1313/news/ja/democes2025/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/news/ja/democes2025/</guid>
-      <description>&lt;p&gt;ネバダ州ラスベガス: CES2025 のパラッツォ ホテルでデモを開催し、Global Scale Technologies の Cortadobin 製品と Snap Spectacles を使用した RallyMD AR プロジェクト コンセプトを紹介しました。&lt;/p&gt;</description>
+      <description>&lt;p&gt;ネバダ州ラスベガス: CES2025 のパラッツォ ホテルでデモを開催し、Global Scale Technologies の Cortadobin 製品と Snap Spectacles を使用した RallyMD AR プロジェクト コンセプトを紹介しました。&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://globalscaletechnologies.com/product/cortadobin/&#34;&gt;https://globalscaletechnologies.com/product/cortadobin/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.spectacles.com/&#34;&gt;https://www.spectacles.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>ＵEパートナー募集</title>
+      <link>//localhost:1313/news/en/certifiedpartner_rocketmeisterjuly2025/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/en/certifiedpartner_rocketmeisterjuly2025/</guid>
+      <description>&lt;p&gt;2024年7月にUEパートナーのステータスを取得しました。&lt;/p&gt;&#xA;&lt;p&gt;ＵEパートナー募集&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://uematsudenki.com/uep-r/&#34;&gt;https://uematsudenki.com/uep-r/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ＵEパートナー募集</title>
@@ -31,10 +52,24 @@
     </item>
     <item>
       <title>VisionDevCamp 2025 Fukuoka x Tokyo</title>
+      <link>//localhost:1313/news/en/visiondevcamp2025_fukuoka_and_tokyo_april2025/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/en/visiondevcamp2025_fukuoka_and_tokyo_april2025/</guid>
+      <description>&lt;p&gt;いよいよ２週間後に #VisionDevCamp 開催です！&#xA;申し込み枠にはまだ空きがありますのでぜひご登録ください^ ^&lt;/p&gt;&#xA;&lt;p&gt;日程: 4月11日-13日&lt;/p&gt;&#xA;&lt;p&gt;開発経験は問いません。&#xA;VRに興味のある方、デザインに興味のある方、アイデアをお持ちの方Apple Vision Proを触ってみたい方など&#xA;多くの人とアイデアを出し合ってハッカソンを楽しみましょう！&lt;/p&gt;&#xA;&lt;p&gt;質問があれば気軽にDMください^ ^&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://visiondevcamp-fukuoka.pages.dev/&#34;&gt;https://visiondevcamp-fukuoka.pages.dev/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.vdctokyo.org/&#34;&gt;https://www.vdctokyo.org/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://visiondevcamp.org/&#34;&gt;https://visiondevcamp.org/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;walkthrough&#34;&gt;Walkthrough&lt;/h2&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/xBGNC2dhcyI?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>VisionDevCamp 2025 Fukuoka x Tokyo</title>
       <link>//localhost:1313/news/ja/visiondevcamp2025_fukuoka_and_tokyo_april2025/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/news/ja/visiondevcamp2025_fukuoka_and_tokyo_april2025/</guid>
       <description>&lt;p&gt;いよいよ２週間後に #VisionDevCamp 開催です！&#xA;申し込み枠にはまだ空きがありますのでぜひご登録ください^ ^&lt;/p&gt;&#xA;&lt;p&gt;日程: 4月11日-13日&lt;/p&gt;&#xA;&lt;p&gt;開発経験は問いません。&#xA;VRに興味のある方、デザインに興味のある方、アイデアをお持ちの方Apple Vision Proを触ってみたい方など&#xA;多くの人とアイデアを出し合ってハッカソンを楽しみましょう！&lt;/p&gt;&#xA;&lt;p&gt;質問があれば気軽にDMください^ ^&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://visiondevcamp-fukuoka.pages.dev/&#34;&gt;https://visiondevcamp-fukuoka.pages.dev/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.vdctokyo.org/&#34;&gt;https://www.vdctokyo.org/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://visiondevcamp.org/&#34;&gt;https://visiondevcamp.org/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;walkthrough&#34;&gt;Walkthrough&lt;/h2&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/xBGNC2dhcyI?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>設立</title>
+      <link>//localhost:1313/news/en/openjune2024/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/en/openjune2024/</guid>
+      <description>&lt;p&gt;事務所を開設しました。&#xA;〒814-0111  福岡市城南区茶山４丁目7ー12&lt;/p&gt;&#xA;&lt;p&gt;商号          ＩｏＴｏｎｅ　Ｊａｐａｎ株式会社&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;設立年月日  令和６年５月２9日設立&lt;/p&gt;&#xA;&lt;p&gt;詳しいアクセス情報はこちら&lt;/p&gt;</description>
     </item>
     <item>
       <title>設立</title>
@@ -63,48 +98,6 @@
       <pubDate>Tue, 10 Oct 2023 12:00:00 +0900</pubDate>
       <guid>//localhost:1313/legal-notice/</guid>
       <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;事業者の名称&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;株式会社 IoTone Japan&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;所在地&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;福岡市城南区茶山４丁目 7 ー 12&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;電話番号&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;+81 50 5534 1953&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;メールアドレス&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;mailto:info@iotone.jp&#34;&gt;info@iotone.jp&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;運営統括責任者&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;David J Kordsmeier&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;追加手数料等の追加料金&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;契約書に記載の無い場合を除いて追加料金は無い&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;交換および返品&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;契約書に記載の無い限りは役務の性質上返品・返金はしない&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;引渡時期&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;契約締結時&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;受け付け可能な決済手段&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;銀行振込もしくはクレジットカード&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;決済期間&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;クレジットカード決済の場合はただちに処理されますが、国内の銀行振込の場合は請求書に記載の期日&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;販売価格&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;請求書に記載&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>//localhost:1313/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rich Content</title>
-      <link>//localhost:1313/posts/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Test News</title>
-      <link>//localhost:1313/posts/test/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/test/</guid>
-      <description>&lt;p&gt;新聞　&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Placeholder Text</title>
-      <link>//localhost:1313/posts/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Math Typesetting</title>
-      <link>//localhost:1313/posts/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Emoji Support</title>
-      <link>//localhost:1313/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Events</title>
