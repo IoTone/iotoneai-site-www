@@ -16,6 +16,13 @@
       <description>&lt;p&gt;Announcement: We have released an open source project that enables desktop mirroring to Snap Spectacles AR glasses. The project name is &amp;ldquo;Spectacles Desk Window&amp;rdquo;. You can download it from Github. See the demo here: &lt;a href=&#34;https://github.com/IoTone/SpectaclesDeskWindow/&#34;&gt;https://github.com/IoTone/SpectaclesDeskWindow/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Dx2J5Gqqru0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
+      <title>VisionDevCamp 2025 Fukuoka x Tokyo</title>
+      <link>//localhost:1313/news/en/visiondevcamp2025_fukuoka_and_tokyo_april2025/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/en/visiondevcamp2025_fukuoka_and_tokyo_april2025/</guid>
+      <description>&lt;p&gt;Happy to announce VisionDevCamp (&lt;a href=&#34;https://lnkd.in/gkAVr6jc&#34;&gt;https://lnkd.in/gkAVr6jc&lt;/a&gt;) #Fukuoka 2025, April 11-13. We will be hosting simultaneously with our collaborators in Tokyo who are running VisionDevCamp Tokyo at the same time. Special thanks to The City of Fukuoka and The Engineer Cafe for sponsoring the event. We are deeply thankful for the generous support from STYLY, Inc. My company, IoTone Japan will be co-sponsoring as well. The cost of this event is subsidized by our main sponsor, and we are thrilled to invite the international AR/VR/XR community to the City of Fukuoka. Please DM me if you have questions about the event, have interest in co-sponsoring, or would like to get involved as a speaker, mentor, or volunteer.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Demo at CES2025</title>
       <link>//localhost:1313/news/en/democes2025/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
@@ -35,13 +42,6 @@
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/news/en/openjune2024/</guid>
       <description>&lt;p&gt;The company opened the office and established business operations:&lt;/p&gt;&#xA;&lt;p&gt;〒814-0111  福岡市城南区茶山４丁目7ー12&lt;/p&gt;&#xA;&lt;p&gt;商号          ＩｏＴｏｎｅ　Ｊａｐａｎ株式会社&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Date of establishment: May 29, 2024&lt;/p&gt;&#xA;&lt;p&gt;Click here for detailed access information&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>VisionDevCamp 2025 Fukuoka x Tokyo</title>
-      <link>//localhost:1313/news/en/visiondevcamp2025_fukuoka_and_tokyo_april2025/</link>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/news/en/visiondevcamp2025_fukuoka_and_tokyo_april2025/</guid>
-      <description>&lt;p&gt;Happy to announce VisionDevCamp (&lt;a href=&#34;https://lnkd.in/gkAVr6jc&#34;&gt;https://lnkd.in/gkAVr6jc&lt;/a&gt;) #Fukuoka 2025, April 11-13. We will be hosting simultaneously with our collaborators in Tokyo who are running VisionDevCamp Tokyo at the same time. Special thanks to The City of Fukuoka and The Engineer Cafe for sponsoring the event. We are deeply thankful for the generous support from STYLY, Inc. My company, IoTone Japan will be co-sponsoring as well. The cost of this event is subsidized by our main sponsor, and we are thrilled to invite the international AR/VR/XR community to the City of Fukuoka. Please DM me if you have questions about the event, have interest in co-sponsoring, or would like to get involved as a speaker, mentor, or volunteer.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

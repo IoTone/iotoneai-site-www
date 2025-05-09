@@ -66,6 +66,12 @@
                 href="//localhost:1313/"
                 />
   </url><url>
+    <loc>//localhost:1313/news/en/visiondevcamp2025_fukuoka_and_tokyo_april2025/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/news/ja/visiondevcamp2025_fukuoka_and_tokyo_april2025/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/news/en/democes2025/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -146,12 +152,6 @@
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/emoji/</loc>
-    <lastmod>2024-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/news/en/visiondevcamp2025_fukuoka_and_tokyo_april2025/</loc>
-    <lastmod>2024-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/news/ja/visiondevcamp2025_fukuoka_and_tokyo_april2025/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/news/en/openjune2024/</loc>
