@@ -11,7 +11,7 @@ theme = "spectral-zeitoun"
 fancyTitle = '<img height="128" src="/images/IoToneFontIcon.svg" alt="Logo"/><br />Japan' # title for frontpage, may include image'
 copyright = "株式会社IoTone Japan"
 description = 'Unified Human Intelligence'
-vers = 'v0.1.3'
+vers = 'v0.1.5'
 # startbuttonText = "Activate"
 startbuttonLink = "#contact"
 body_is_markdown = true
