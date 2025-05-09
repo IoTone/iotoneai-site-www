@@ -31,17 +31,17 @@ languageName = "Japanese"
 # description = 'Contact'
 startbuttonText = "お問い合わせ"
 
-# [[languages.en.params.menu.main]]
-# url = '/posts/'
-# title = "Posts"
+[[languages.en.params.menu.main]]
+url = '/news/en/'
+title = "News"
 
 [[languages.ja.params.menu.main]]
 url = '/'
 title = "ホーム"
 
-# [[languages.ja.params.menu.main]]
-# url = '/posts/'
-# title = "ニュース"
+[[languages.ja.params.menu.main]]
+url = '/news/ja/'
+title = "ニュース"
 
 [[languages.ja.params.menu.main]]
 url = '/services/'
