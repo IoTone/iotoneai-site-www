@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <rect width="120" height="120" fill="#0A0A0F"/>
+  <!-- Compact icon: stylized I+O merged -->
+  <g transform="translate(20,15) skewX(-10)">
+    <!-- I bar -->
+    <rect x="0" y="0" width="7" height="85" fill="#FF6B00"/>
+    <!-- O hexagonal -->
+    <polygon points="25,0 65,0 78,42.5 65,85 25,85 12,42.5" fill="none" stroke="#FF6B00" stroke-width="4"/>
+    <!-- Center node -->
+    <circle cx="45" cy="42.5" r="7" fill="#FF6B00"/>
+    <!-- Spokes -->
+    <line x1="45" y1="42.5" x2="25" y2="22" stroke="#FF6B00" stroke-width="2"/>
+    <line x1="45" y1="42.5" x2="65" y2="22" stroke="#FF6B00" stroke-width="2"/>
+    <line x1="45" y1="42.5" x2="25" y2="63" stroke="#FF6B00" stroke-width="2"/>
+    <line x1="45" y1="42.5" x2="65" y2="63" stroke="#FF6B00" stroke-width="2"/>
+    <circle cx="25" cy="22" r="3" fill="#FF6B00"/>
+    <circle cx="65" cy="22" r="3" fill="#FF6B00"/>
+    <circle cx="25" cy="63" r="3" fill="#FF6B00"/>
+    <circle cx="65" cy="63" r="3" fill="#FF6B00"/>
+  </g>
+  <!-- Speed line -->
+  <line x1="0" y1="108" x2="120" y2="108" stroke="#FF6B00" stroke-width="2" opacity="0.6"/>
+</svg>

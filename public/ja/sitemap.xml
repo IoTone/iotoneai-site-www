@@ -2,6 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2026-03-24T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="//localhost:1313/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="//localhost:1313/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="//localhost:1313/"
+                />
+  </url><url>
     <loc>//localhost:1313/tags/index/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -42,29 +65,6 @@
   </url><url>
     <loc>//localhost:1313/news/ja/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2025-04-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="//localhost:1313/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="//localhost:1313/"
-                />
   </url><url>
     <loc>//localhost:1313/news/en/visiondevcamp2025_fukuoka_and_tokyo_april2025/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>

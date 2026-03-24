@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <rect width="800" height="200" fill="#0A0A0F"/>
+
+  <!-- Icon frame -->
+  <rect x="30" y="30" width="140" height="140" fill="none" stroke="#3A3D4A" stroke-width="1.5"/>
+
+  <!-- I - monochrome white -->
+  <line x1="70" y1="50" x2="70" y2="150" stroke="#F0F0F5" stroke-width="3"/>
+  <circle cx="70" cy="50" r="7" fill="#F0F0F5"/>
+  <circle cx="70" cy="100" r="7" fill="#F0F0F5"/>
+  <circle cx="70" cy="150" r="7" fill="#F0F0F5"/>
+
+  <!-- O - monochrome white -->
+  <line x1="100" y1="55" x2="150" y2="55" stroke="#F0F0F5" stroke-width="3"/>
+  <line x1="150" y1="55" x2="150" y2="145" stroke="#F0F0F5" stroke-width="3"/>
+  <line x1="150" y1="145" x2="100" y2="145" stroke="#F0F0F5" stroke-width="3"/>
+  <line x1="100" y1="145" x2="100" y2="55" stroke="#F0F0F5" stroke-width="3"/>
+  <circle cx="100" cy="55" r="7" fill="#F0F0F5"/>
+  <circle cx="150" cy="55" r="7" fill="#F0F0F5"/>
+  <circle cx="150" cy="145" r="7" fill="#F0F0F5"/>
+  <circle cx="100" cy="145" r="7" fill="#F0F0F5"/>
+
+  <!-- Cross-connection -->
+  <line x1="70" y1="100" x2="100" y2="100" stroke="#F0F0F5" stroke-width="2" stroke-dasharray="5,4"/>
+
+  <!-- IOTONE -->
+  <text x="230" y="108" fill="#F0F0F5" font-family="'Eurostile','Orbitron','Exo 2',sans-serif" font-size="56" font-weight="700" letter-spacing="0.1em">IOTONE</text>
+  <line x1="230" y1="125" x2="620" y2="125" stroke="#3A3D4A" stroke-width="1"/>
+  <text x="230" y="150" fill="#8B8B99" font-family="'Eurostile','Orbitron','Exo 2',sans-serif" font-size="18" letter-spacing="0.5em">JAPAN</text>
+</svg>

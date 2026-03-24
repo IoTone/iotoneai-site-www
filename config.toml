@@ -268,3 +268,6 @@ languageName = "Deutsch"
 weight = 10
 languageName = "Español"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
