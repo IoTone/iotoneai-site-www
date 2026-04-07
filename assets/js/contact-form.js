@@ -4,6 +4,11 @@
   var form = document.getElementById('contact-form');
   if (!form) return;
 
+  var GRIST_DOC_ID = 'wzU3aNhDLNr3';
+  var GRIST_TABLE_ID = 'iotjwww_contact_form';
+  var GRIST_API_KEY = 'c904cacd439d922b48e4a9be99c0790c189bd3d1';
+  var GRIST_URL = 'https://docs.getgrist.com/api/docs/' + GRIST_DOC_ID + '/tables/' + GRIST_TABLE_ID + '/records';
+
   form.addEventListener('submit', function(e) {
     e.preventDefault();
 
@@ -13,7 +18,6 @@
 
     var statusEl = document.getElementById('form-status');
     var submitBtn = form.querySelector('input[type="submit"]');
-    var endpoint = form.getAttribute('data-endpoint');
     var successMsg = form.getAttribute('data-success-message') || 'Message sent!';
     var errorMsg = form.getAttribute('data-error-message') || 'An error occurred.';
 
@@ -21,16 +25,22 @@
     statusEl.textContent = '...';
     statusEl.className = 'form-status loading';
 
-    var data = {
-      name: form.querySelector('#name').value,
-      email: form.querySelector('#email').value,
-      message: form.querySelector('#message').value,
-      subject: form.querySelector('input[name="subject"]').value
+    var payload = {
+      records: [{
+        fields: {
+          Name: form.querySelector('#name').value,
+          Email: form.querySelector('#email').value,
+          Message: form.querySelector('#message').value,
+          Subject: form.querySelector('input[name="subject"]').value,
+          Submitted: new Date().toISOString()
+        }
+      }]
     };
 
     var xhr = new XMLHttpRequest();
-    xhr.open('POST', endpoint, true);
+    xhr.open('POST', GRIST_URL, true);
     xhr.setRequestHeader('Content-Type', 'application/json');
+    xhr.setRequestHeader('Authorization', 'Bearer ' + GRIST_API_KEY);
 
     xhr.onload = function() {
       if (xhr.status >= 200 && xhr.status < 300) {
@@ -50,6 +60,6 @@
       submitBtn.disabled = false;
     };
 
-    xhr.send(JSON.stringify(data));
+    xhr.send(JSON.stringify(payload));
   });
 })();

@@ -17,8 +17,6 @@ custom_css = "css/custom.css"
 #custom_sass = "bar.scss"
 images = ["/images/design2026/concept-b-primary.svg"]
 
-[params.grist]
-functionEndpoint = "/api/contact"
 
 [languages.en]
 weight = 10
