@@ -4,10 +4,8 @@
   var form = document.getElementById('contact-form');
   if (!form) return;
 
-  var GRIST_DOC_ID = 'wzU3aNhDLNr3';
-  var GRIST_TABLE_ID = 'iotjwww_contact_form';
+  var GRIST_URL = 'https://iotoneinc.getgrist.com/api/docs/wzU3aNhDLNr3LyXkuHJyC6/tables/Table1/records';
   var GRIST_API_KEY = 'c904cacd439d922b48e4a9be99c0790c189bd3d1';
-  var GRIST_URL = 'https://docs.getgrist.com/api/docs/' + GRIST_DOC_ID + '/tables/' + GRIST_TABLE_ID + '/records';
 
   form.addEventListener('submit', function(e) {
     e.preventDefault();
@@ -28,11 +26,11 @@
     var payload = {
       records: [{
         fields: {
-          Name: form.querySelector('#name').value,
-          Email: form.querySelector('#email').value,
-          Message: form.querySelector('#message').value,
-          Subject: form.querySelector('input[name="subject"]').value,
-          Submitted: new Date().toISOString()
+          A: form.querySelector('#name').value,
+          B: form.querySelector('#email').value,
+          C: form.querySelector('#message').value,
+          D: form.querySelector('input[name="subject"]').value,
+          E: new Date().toISOString()
         }
       }]
     };
