@@ -18,7 +18,7 @@ custom_css = "css/custom.css"
 images = ["/images/design2026/concept-b-primary.svg"]
 
 [params.grist]
-functionEndpoint = "/.netlify/functions/contact"
+functionEndpoint = "/api/contact"
 
 [languages.en]
 weight = 10
