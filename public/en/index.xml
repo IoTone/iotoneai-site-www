@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>株式会社IoTone Japan</title>
-    <link>/en/</link>
+    <link>//localhost:1313/en/</link>
     <description>Recent content on 株式会社IoTone Japan</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cyberdeck P2P Chat: Thread-Based Mesh Networking on ESP32-C6</title>
-      <link>/en/news/cyberdeck_p2p_chat_feb2026/</link>
+      <link>//localhost:1313/en/news/cyberdeck_p2p_chat_feb2026/</link>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/en/news/cyberdeck_p2p_chat_feb2026/</guid>
+      <guid>//localhost:1313/en/news/cyberdeck_p2p_chat_feb2026/</guid>
       <description>&lt;p&gt;We&amp;rsquo;ve made significant progress on Thread-based P2P chat across four ESP32-C6 nodes. The system enables broadcast messaging via serial UART and 1-on-1 direct messaging, all at a cost of under $8 per device.&lt;/p&gt;&#xA;&lt;p&gt;Inspired by OLPC-era infrastructure-free protocols, this work targets STEM education and explores three research directions: mesh networking for XR, wearable personal area networks (PANs), and Hive Centric AI.&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/IoTone/ProjectMagNET/blob/dev/reference-designs/MagNET_Thread_COaP_hanasu_esp32c6/README.md&#34;&gt;Hardware setup guide &amp;amp; code (GitHub)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>No Foosball No Life: Multiplayer AR Foosball at Lensfest 2026</title>
-      <link>/en/news/nofoosballnolife_lensfest_feb2026/</link>
+      <link>//localhost:1313/en/news/nofoosballnolife_lensfest_feb2026/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/en/news/nofoosballnolife_lensfest_feb2026/</guid>
+      <guid>//localhost:1313/en/news/nofoosballnolife_lensfest_feb2026/</guid>
       <description>&lt;p&gt;We presented &amp;ldquo;No Foosball No Life,&amp;rdquo; a multiplayer AR foosball game built for Snap Spectacles, at Lensfest February 2026. The game brings the classic tabletop experience into augmented reality, letting players compete in spatial foosball using Spectacles.&lt;/p&gt;&#xA;&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/f2dh74tdfGk?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>CES 2026 XR Glasses Review</title>
-      <link>/en/news/ces2026_xr_glasses_review_jan2026/</link>
+      <link>//localhost:1313/en/news/ces2026_xr_glasses_review_jan2026/</link>
       <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/en/news/ces2026_xr_glasses_review_jan2026/</guid>
+      <guid>//localhost:1313/en/news/ces2026_xr_glasses_review_jan2026/</guid>
       <description>&lt;p&gt;We attended CES 2026 and reviewed the latest XR glasses on display. Our findings cover the current state of XR hardware for both the US and Japan markets.&lt;/p&gt;&#xA;&lt;p&gt;Read our full review and analysis on Qiita.&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://qiita.com/truedata_iotone/items/32776aae4eac57432c71&#34;&gt;CES 2026 XR Glasses Review (Qiita)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Thread/Matter Mesh Networking Experiments with M5NanoC6</title>
-      <link>/en/news/thread_matter_mesh_oct2025/</link>
+      <link>//localhost:1313/en/news/thread_matter_mesh_oct2025/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>/en/news/thread_matter_mesh_oct2025/</guid>
+      <guid>//localhost:1313/en/news/thread_matter_mesh_oct2025/</guid>
       <description>&lt;p&gt;We&amp;rsquo;ve been running Arduino-based mesh networking experiments using the M5NanoC6, building ad-hoc networks that require no infrastructure. The goal is to bring back device-to-device sharing capabilities inspired by IR, AirDrop, and BLE Mesh.&lt;/p&gt;&#xA;&lt;p&gt;Our tests showed a stable 80-foot range with two nodes. Next steps include a generalized codebase and UART chat interface.&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/IoTone/ProjectMagNET/tree/dev/reference-designs/MagNET_Thread_COaP_switch_esp32c6&#34;&gt;Switch reference design (GitHub)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.m5stack.com/en/core/M5NanoC6&#34;&gt;M5NanoC6 product page&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>SpaceMathV: Spatial AR Math Visualization on Snap Spectacles</title>
-      <link>/en/news/spacemathv_snap_spectacles_july2025/</link>
+      <link>//localhost:1313/en/news/spacemathv_snap_spectacles_july2025/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/en/news/spacemathv_snap_spectacles_july2025/</guid>
+      <guid>//localhost:1313/en/news/spacemathv_snap_spectacles_july2025/</guid>
       <description>&lt;p&gt;At a recent hackathon, we collaborated to create &amp;ldquo;SpaceMathV,&amp;rdquo; a spatial AR lens for Snap Spectacles that visualizes mathematical concepts including lines, planes, and circles in 3D space. This educational tool allows students to physically interact with equations, making abstract math tangible.&lt;/p&gt;&#xA;&lt;p&gt;The project was inspired by Visicalc, the pioneering spreadsheet software that transformed how people interact with numbers.&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.spectacles.com/lens/8c8e856022f046c5a333beeb86c2d15c?type=SNAPCODE&amp;metadata=01&#34;&gt;Try the SpaceMathV Lens&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/VisiCalc&#34;&gt;Visicalc history&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>First Meshtastic Community Event in Fukuoka</title>
-      <link>/en/news/meshtastic_fukuoka_june2025/</link>
+      <link>//localhost:1313/en/news/meshtastic_fukuoka_june2025/</link>
       <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/en/news/meshtastic_fukuoka_june2025/</guid>
+      <guid>//localhost:1313/en/news/meshtastic_fukuoka_june2025/</guid>
       <description>&lt;p&gt;We hosted the first community Meshtastic event at Fukuoka Engineer Cafe, introducing offline mesh networking to the local community. Japan currently has only 7 public Meshtastic nodes compared to over 350 in the San Francisco Bay Area, and our goal is to help expand that network.&lt;/p&gt;&#xA;&lt;p&gt;The event covered the basics of Meshtastic, demonstrated 3D-printed device cases, and discussed grant funding opportunities for building local mesh network infrastructure.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spectacles Desk Window AR Release</title>
-      <link>/en/news/release_snapdeskwindow_ar_april2025/</link>
+      <link>//localhost:1313/en/news/release_snapdeskwindow_ar_april2025/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/en/news/release_snapdeskwindow_ar_april2025/</guid>
+      <guid>//localhost:1313/en/news/release_snapdeskwindow_ar_april2025/</guid>
       <description>&lt;p&gt;Announcement: We have released an open source project that enables desktop mirroring to Snap Spectacles AR glasses. The project name is &amp;ldquo;Spectacles Desk Window&amp;rdquo;. You can download it from Github. See the demo here: &lt;a href=&#34;https://github.com/IoTone/SpectaclesDeskWindow/&#34;&gt;https://github.com/IoTone/SpectaclesDeskWindow/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Dx2J5Gqqru0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>VisionDevCamp 2025 Fukuoka x Tokyo</title>
-      <link>/en/news/visiondevcamp2025_fukuoka_and_tokyo_april2025/</link>
+      <link>//localhost:1313/en/news/visiondevcamp2025_fukuoka_and_tokyo_april2025/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/en/news/visiondevcamp2025_fukuoka_and_tokyo_april2025/</guid>
+      <guid>//localhost:1313/en/news/visiondevcamp2025_fukuoka_and_tokyo_april2025/</guid>
       <description>&lt;p&gt;Happy to announce VisionDevCamp (&lt;a href=&#34;https://lnkd.in/gkAVr6jc&#34;&gt;https://lnkd.in/gkAVr6jc&lt;/a&gt;) #Fukuoka 2025, April 11-13. We will be hosting simultaneously with our collaborators in Tokyo who are running VisionDevCamp Tokyo at the same time. Special thanks to The City of Fukuoka and The Engineer Cafe for sponsoring the event. We are deeply thankful for the generous support from STYLY, Inc. My company, IoTone Japan will be co-sponsoring as well. The cost of this event is subsidized by our main sponsor, and we are thrilled to invite the international AR/VR/XR community to the City of Fukuoka. Please DM me if you have questions about the event, have interest in co-sponsoring, or would like to get involved as a speaker, mentor, or volunteer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Demo at CES2025</title>
-      <link>/en/news/democes2025/</link>
+      <link>//localhost:1313/en/news/democes2025/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/en/news/democes2025/</guid>
+      <guid>//localhost:1313/en/news/democes2025/</guid>
       <description>&lt;p&gt;Las Vegas, NV: IoTone Japan held a demo at the Palazzo Hotel at CES2025 showcasing Global Scale Technologies’ RallyMD AR project concept using Cortadobin products and Snap Spectacles.&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://globalscaletechnologies.com/product/cortadobin/&#34;&gt;https://globalscaletechnologies.com/product/cortadobin/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.spectacles.com/&#34;&gt;https://www.spectacles.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>ＵE Partner status</title>
-      <link>/en/news/certifiedpartner_rocketmeisterjuly2025/</link>
+      <link>//localhost:1313/en/news/certifiedpartner_rocketmeisterjuly2025/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>/en/news/certifiedpartner_rocketmeisterjuly2025/</guid>
+      <guid>//localhost:1313/en/news/certifiedpartner_rocketmeisterjuly2025/</guid>
       <description>&lt;p&gt;We achieved UE Partner status in July 2024.  We are able to sell products and services related to the UE network of &amp;ldquo;Rocketmeister&amp;rdquo; scientific exploration products for kids.&lt;/p&gt;&#xA;&lt;p&gt;ＵEパートナー募集&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://uematsudenki.com/uep-r/&#34;&gt;https://uematsudenki.com/uep-r/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Establishment of Operations</title>
-      <link>/en/news/openjune2024/</link>
+      <link>//localhost:1313/en/news/openjune2024/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/en/news/openjune2024/</guid>
+      <guid>//localhost:1313/en/news/openjune2024/</guid>
       <description>&lt;p&gt;The company opened the office and established business operations:&lt;/p&gt;&#xA;&lt;p&gt;〒810-0001  7F, ONE FUKUOKA BLDG. 1-11-1 Tenjin, Chuo-ku, Fukuoka&lt;/p&gt;&#xA;&lt;p&gt;商号          ＩｏＴｏｎｅ　Ｊａｐａｎ株式会社&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Date of establishment: May 29, 2024&lt;/p&gt;&#xA;&lt;p&gt;Click here for detailed access information&lt;/p&gt;</description>
     </item>
     <item>
       <title>Legal Notice Based on the Act on Specified Commercial Transactions</title>
-      <link>/en/legal-notice/</link>
+      <link>//localhost:1313/en/legal-notice/</link>
       <pubDate>Tue, 10 Oct 2023 12:00:00 +0900</pubDate>
-      <guid>/en/legal-notice/</guid>
+      <guid>//localhost:1313/en/legal-notice/</guid>
       <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Business Name&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;IoTone Japan Inc.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Location&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;4-7-12 Chayama, Jonan-ku, Fukuoka&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Phone Number&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;+81 50 5534 1953&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Email Address&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;mailto:info@iotone.jp&#34;&gt;info@iotone.jp&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Representative&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;David J Kordsmeier&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Additional Fees&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;No additional fees unless specified in the contract&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Return and Exchange Policy&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;No returns or refunds due to the nature of the service unless specified in the contract&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Delivery Time&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Upon contract conclusion&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Payment Methods&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Bank transfer or credit card&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Payment Period&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Immediate processing for credit card payments; for domestic bank transfers, as per the invoice&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Sales Price&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;As listed on the invoice&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>/en/privacypolicy/</link>
+      <link>//localhost:1313/en/privacypolicy/</link>
       <pubDate>Tue, 10 Oct 2023 12:00:00 +0900</pubDate>
-      <guid>/en/privacypolicy/</guid>
+      <guid>//localhost:1313/en/privacypolicy/</guid>
       <description>&lt;p&gt;Last updated: Jan 28, 2025&lt;/p&gt;&#xA;&lt;h1 id=&#34;iotone-japan-privacy-policy&#34;&gt;IoTone Japan Privacy Policy&lt;/h1&gt;&#xA;&lt;h2 id=&#34;services&#34;&gt;Services&lt;/h2&gt;&#xA;&lt;p&gt;IoTone Japan Inc. (referred to as IoTone Japan, operating under the brand IoToneAI) offers a suite of social media management tools. These tools are offered as services for managing and analyzing social media feeds. As such, all data received via social networks (Twitter, Facebook, etc.) will additionally be subject to the terms and conditions and privacy policies of the social networks. Social networks will have their own policies for data collection and data retention which should be reviewed by users of IoTone Japan services.&#xA;IoTone Japan services operated under the IoToneAI brand are intended for use by individuals above the age of 18 for business or research purposes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Terms and Conditions</title>
-      <link>/en/termsandconditions/</link>
+      <link>//localhost:1313/en/termsandconditions/</link>
       <pubDate>Tue, 10 Oct 2023 12:00:00 +0900</pubDate>
-      <guid>/en/termsandconditions/</guid>
+      <guid>//localhost:1313/en/termsandconditions/</guid>
       <description>&lt;p&gt;Last updated: April 6, 2025&lt;/p&gt;&#xA;&lt;h1 id=&#34;terms-and-conditions&#34;&gt;Terms and Conditions&lt;/h1&gt;&#xA;&lt;p&gt;TERMS &amp;amp; CONDITIONS&lt;/p&gt;&#xA;&lt;p&gt;PLEASE READ THE FOLLOWING TERMS OF SERVICE AGREEMENT CAREFULLY. BY ACCESSING OR USING OUR WEBSITE (THE “SITE”) OR OUR SERVICES, YOU HEREBY AGREE TO BE BOUND BY THESE TERMS AND CONDITIONS AND ALL TERMS INCORPORATED HEREIN BY REFERENCE. IT IS THE RESPONSIBILITY OF YOU, THE USER, CUSTOMER, OR PROSPECTIVE CUSTOMER TO READ THE TERMS AND CONDITIONS BEFORE PROCEEDING TO USE THIS SITE. IF YOU DO NOT EXPRESSLY AGREE TO ALL OF THE TERMS AND CONDITIONS, THEN PLEASE DO NOT ACCESS OR USE OUR SITE OR OUR SERVICES.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>/en/about/</link>
+      <link>//localhost:1313/en/about/</link>
       <pubDate>Fri, 27 Oct 2017 16:55:13 +0000</pubDate>
-      <guid>/en/about/</guid>
+      <guid>//localhost:1313/en/about/</guid>
       <description>&lt;p&gt;Company name: IoTone Japan Co., Ltd.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Established: May 29, 2024&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Business: Development of preventive medical technology using IoT, building new systems that can be linked to security for general residences and home appliances, development of AR and VR, and development of programs that use VR to approach sports, space, and real estate. This involves planning and implementing events and seminars, developing and providing educational services and educational toys.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Address: 7F, ONE FUKUOKA BLDG., 1-11-1 Tenjin, Chuo-ku, Fukuoka-shi, Fukuoka 810-0001, Japan&lt;/p&gt;</description>
     </item>
     <item>
       <title>Events</title>
-      <link>/en/events/</link>
+      <link>//localhost:1313/en/events/</link>
       <pubDate>Fri, 27 Oct 2017 16:55:13 +0000</pubDate>
-      <guid>/en/events/</guid>
+      <guid>//localhost:1313/en/events/</guid>
       <description>&lt;h1 id=&#34;iotone-japan-tech-events&#34;&gt;IoTone Japan Tech Events&lt;/h1&gt;&#xA;&lt;p&gt;IoTone Japan offers a series of technology event sand conferences.&lt;/p&gt;&#xA;&lt;h2 id=&#34;conferences&#34;&gt;Conferences&lt;/h2&gt;&#xA;&lt;p&gt;IoTone Japan co-sponsors and produces the following events&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tokyo VisionDevCamp 2025 - &lt;a href=&#34;https://www.vdctokyo.org&#34;&gt;https://www.vdctokyo.org&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://visiondevcamp-fukuoka.pages.dev/&#34;&gt;Tokyo VisionDevCamp 2025 Fukuoka Satellite Event&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;meetups&#34;&gt;Meetups&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(Coming Soon) Fukuoka Meshtastic Club&lt;/li&gt;&#xA;&lt;li&gt;(Coming Soon) Fukuoka Spatial Technology Meetup&lt;/li&gt;&#xA;&lt;li&gt;Fukuoka Burning Man Meetup&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;education-events&#34;&gt;Education Events&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(Coming in Summmer 2025) Silicon Vally STEM Camp @ Fukuoka&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Services</title>
-      <link>/en/services/</link>
+      <link>//localhost:1313/en/services/</link>
       <pubDate>Fri, 27 Oct 2017 16:55:13 +0000</pubDate>
-      <guid>/en/services/</guid>
+      <guid>//localhost:1313/en/services/</guid>
       <description>&lt;h2 id=&#34;business-contents&#34;&gt;Business contents&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Development, sales and consulting of IT software&lt;/li&gt;&#xA;&lt;li&gt;Provision of information asset management services&lt;/li&gt;&#xA;&lt;li&gt;Development and consulting of preventive medical technology using IoT&lt;/li&gt;&#xA;&lt;li&gt;Development and provision of services of daily necessities using IoT and AI&lt;/li&gt;&#xA;&lt;li&gt;Provision of educational services and sales of educational toys&lt;/li&gt;&#xA;&lt;li&gt;Development and consulting of AR and VR&lt;/li&gt;&#xA;&lt;li&gt;Planning and implementation of events and seminars&lt;/li&gt;&#xA;&lt;li&gt;Sales of products via the Internet&lt;/li&gt;&#xA;&lt;li&gt;Staffing business&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;services&#34;&gt;Services&lt;/h2&gt;&#xA;&lt;p&gt;Development, sales and consulting of IT software&#xA;IoTone Japan has formed an engineering team &amp;ldquo;IoTone Team AI&amp;rdquo; that focuses on IT-related services such as AI/IoT/mobile/VR, and will provide technical services, sales in English and technical field support using the latest Silicon Valley technology and strong English skills.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>/en/contact/</link>
+      <link>//localhost:1313/en/contact/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/en/contact/</guid>
+      <guid>//localhost:1313/en/contact/</guid>
       <description>&lt;h2 id=&#34;head-office&#34;&gt;Head Office:&lt;/h2&gt;&#xA;&lt;p&gt;〒810-0001  7F, ONE FUKUOKA BLDG. 1-11-1 Tenjin, Chuo-ku, Fukuoka&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact:&lt;/h3&gt;&#xA;&lt;p&gt;TEL: &amp;#43;81 90 5049 2056&lt;br&gt;&#xA;E-Mail: info@iotone.jp&lt;/p&gt;</description>
     </item>
     <item>
       <title>Support</title>
-      <link>/en/support/</link>
+      <link>//localhost:1313/en/support/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/en/support/</guid>
+      <guid>//localhost:1313/en/support/</guid>
       <description>&lt;h2 id=&#34;customer-service&#34;&gt;Customer Service&lt;/h2&gt;&#xA;&lt;p&gt;Customer Service is available to handle issues with your order, handle disputes, and hopefully ensure a satisfactory experience.&lt;/p&gt;&#xA;&lt;p&gt;TEL: &amp;#43;81 90 5049 2056&#xA;E-Mail: info@iotone.jp&lt;/p&gt;&#xA;&lt;h2 id=&#34;policies&#34;&gt;Policies:&lt;/h2&gt;&#xA;&lt;p&gt;IoTone Japan seeks to deliver a satisfactory experience with every purchase of our services.&lt;/p&gt;&#xA;&lt;h3 id=&#34;returns--exchanges&#34;&gt;RETURNS &amp;amp; EXCHANGES&lt;/h3&gt;&#xA;&lt;p&gt;IoTone Japan gladly accepts returns and exchanges on all items received in like-new condition. Review the IoTone Japan Return and Exchange Policy below and then contact &lt;a href=&#34;mailto:returns@iotone.jp&#34;&gt;returns@iotone.jp&lt;/a&gt; with your order number &amp;amp; explanation for your return. We ask that you be as thorough as possible in describing your reason(s) for return, as detailed feedback directly correlates to improvements in both product design and company operations.&lt;/p&gt;</description>
     </item>
   </channel>

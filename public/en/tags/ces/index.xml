@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ces on 株式会社IoTone Japan</title>
-    <link>/en/tags/ces/</link>
+    <link>//localhost:1313/en/tags/ces/</link>
     <description>Recent content in Ces on 株式会社IoTone Japan</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 24 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/en/tags/ces/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/en/tags/ces/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CES 2026 XR Glasses Review</title>
-      <link>/en/news/ces2026_xr_glasses_review_jan2026/</link>
+      <link>//localhost:1313/en/news/ces2026_xr_glasses_review_jan2026/</link>
       <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/en/news/ces2026_xr_glasses_review_jan2026/</guid>
+      <guid>//localhost:1313/en/news/ces2026_xr_glasses_review_jan2026/</guid>
       <description>&lt;p&gt;We attended CES 2026 and reviewed the latest XR glasses on display. Our findings cover the current state of XR hardware for both the US and Japan markets.&lt;/p&gt;&#xA;&lt;p&gt;Read our full review and analysis on Qiita.&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://qiita.com/truedata_iotone/items/32776aae4eac57432c71&#34;&gt;CES 2026 XR Glasses Review (Qiita)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

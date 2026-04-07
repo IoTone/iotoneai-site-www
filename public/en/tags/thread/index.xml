@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thread on 株式会社IoTone Japan</title>
-    <link>/en/tags/thread/</link>
+    <link>//localhost:1313/en/tags/thread/</link>
     <description>Recent content in Thread on 株式会社IoTone Japan</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/en/tags/thread/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/en/tags/thread/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cyberdeck P2P Chat: Thread-Based Mesh Networking on ESP32-C6</title>
-      <link>/en/news/cyberdeck_p2p_chat_feb2026/</link>
+      <link>//localhost:1313/en/news/cyberdeck_p2p_chat_feb2026/</link>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/en/news/cyberdeck_p2p_chat_feb2026/</guid>
+      <guid>//localhost:1313/en/news/cyberdeck_p2p_chat_feb2026/</guid>
       <description>&lt;p&gt;We&amp;rsquo;ve made significant progress on Thread-based P2P chat across four ESP32-C6 nodes. The system enables broadcast messaging via serial UART and 1-on-1 direct messaging, all at a cost of under $8 per device.&lt;/p&gt;&#xA;&lt;p&gt;Inspired by OLPC-era infrastructure-free protocols, this work targets STEM education and explores three research directions: mesh networking for XR, wearable personal area networks (PANs), and Hive Centric AI.&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/IoTone/ProjectMagNET/blob/dev/reference-designs/MagNET_Thread_COaP_hanasu_esp32c6/README.md&#34;&gt;Hardware setup guide &amp;amp; code (GitHub)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Thread/Matter Mesh Networking Experiments with M5NanoC6</title>
-      <link>/en/news/thread_matter_mesh_oct2025/</link>
+      <link>//localhost:1313/en/news/thread_matter_mesh_oct2025/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>/en/news/thread_matter_mesh_oct2025/</guid>
+      <guid>//localhost:1313/en/news/thread_matter_mesh_oct2025/</guid>
       <description>&lt;p&gt;We&amp;rsquo;ve been running Arduino-based mesh networking experiments using the M5NanoC6, building ad-hoc networks that require no infrastructure. The goal is to bring back device-to-device sharing capabilities inspired by IR, AirDrop, and BLE Mesh.&lt;/p&gt;&#xA;&lt;p&gt;Our tests showed a stable 80-foot range with two nodes. Next steps include a generalized codebase and UART chat interface.&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/IoTone/ProjectMagNET/tree/dev/reference-designs/MagNET_Thread_COaP_switch_esp32c6&#34;&gt;Switch reference design (GitHub)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.m5stack.com/en/core/M5NanoC6&#34;&gt;M5NanoC6 product page&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

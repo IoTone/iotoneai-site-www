@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>株式会社IoTone Japan</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on 株式会社IoTone Japan</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>サイバーデッキP2Pチャット：ESP32-C6によるThreadベースメッシュネットワーキング</title>
-      <link>/news/cyberdeck_p2p_chat_feb2026/</link>
+      <link>//localhost:1313/news/cyberdeck_p2p_chat_feb2026/</link>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/news/cyberdeck_p2p_chat_feb2026/</guid>
+      <guid>//localhost:1313/news/cyberdeck_p2p_chat_feb2026/</guid>
       <description>&lt;p&gt;4台のESP32-C6ノード間でのThreadベースP2Pチャットの開発が大きく進展しました。このシステムは、シリアルUART経由のブロードキャストメッセージングと1対1のダイレクトメッセージングを実現し、デバイスあたりのコストは8ドル未満です。&lt;/p&gt;&#xA;&lt;p&gt;OLPCのインフラフリープロトコルに着想を得たこの取り組みは、STEM教育を対象としており、XR向けメッシュネットワーキング、ウェアラブルパーソナルエリアネットワーク（PAN）、Hive Centric AIの3つの研究方向を探求しています。&lt;/p&gt;&#xA;&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/IoTone/ProjectMagNET/blob/dev/reference-designs/MagNET_Thread_COaP_hanasu_esp32c6/README.md&#34;&gt;ハードウェアセットアップガイド＆コード（GitHub）&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>No Foosball No Life：Lensfest 2026でマルチプレイヤーARフーズボール</title>
-      <link>/news/nofoosballnolife_lensfest_feb2026/</link>
+      <link>//localhost:1313/news/nofoosballnolife_lensfest_feb2026/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/news/nofoosballnolife_lensfest_feb2026/</guid>
+      <guid>//localhost:1313/news/nofoosballnolife_lensfest_feb2026/</guid>
       <description>&lt;p&gt;Lensfest 2026にて、Snap Spectacles用マルチプレイヤーARフーズボールゲーム「No Foosball No Life」を発表しました。クラシックなテーブルフーズボールの体験を拡張現実に持ち込み、Spectaclesを使って空間フーズボールで対戦できるゲームです。&lt;/p&gt;&#xA;&lt;h2 id=&#34;デモ&#34;&gt;デモ&lt;/h2&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/f2dh74tdfGk?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>CES 2026 XRグラスレビュー</title>
-      <link>/news/ces2026_xr_glasses_review_jan2026/</link>
+      <link>//localhost:1313/news/ces2026_xr_glasses_review_jan2026/</link>
       <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/news/ces2026_xr_glasses_review_jan2026/</guid>
+      <guid>//localhost:1313/news/ces2026_xr_glasses_review_jan2026/</guid>
       <description>&lt;p&gt;CES 2026に参加し、展示された最新のXRグラスをレビューしました。米国および日本市場向けのXRハードウェアの現状についての分析をまとめています。&lt;/p&gt;&#xA;&lt;p&gt;詳細なレビューと分析はQiitaに掲載しています。&lt;/p&gt;&#xA;&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://qiita.com/truedata_iotone/items/32776aae4eac57432c71&#34;&gt;CES 2026 XRグラスレビュー（Qiita）&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>M5NanoC6によるThread/Matterメッシュネットワーキング実験</title>
-      <link>/news/thread_matter_mesh_oct2025/</link>
+      <link>//localhost:1313/news/thread_matter_mesh_oct2025/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>/news/thread_matter_mesh_oct2025/</guid>
+      <guid>//localhost:1313/news/thread_matter_mesh_oct2025/</guid>
       <description>&lt;p&gt;M5NanoC6を使用したArduinoベースのメッシュネットワーキング実験を行っています。インフラを必要としないアドホックネットワークの構築を目指しており、IR、AirDrop、BLE Meshに着想を得たデバイス間通信機能の復活を目標としています。&lt;/p&gt;&#xA;&lt;p&gt;テストでは2台のノードで約24メートルの安定した通信範囲を確認しました。次のステップとして、汎用コードベースの整備とUARTチャットインターフェースの開発を進めています。&lt;/p&gt;&#xA;&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/IoTone/ProjectMagNET/tree/dev/reference-designs/MagNET_Thread_COaP_switch_esp32c6&#34;&gt;スイッチリファレンスデザイン（GitHub）&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.m5stack.com/en/core/M5NanoC6&#34;&gt;M5NanoC6製品ページ&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>SpaceMathV：Snap Spectaclesで空間AR数学ビジュアライゼーション</title>
-      <link>/news/spacemathv_snap_spectacles_july2025/</link>
+      <link>//localhost:1313/news/spacemathv_snap_spectacles_july2025/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/news/spacemathv_snap_spectacles_july2025/</guid>
+      <guid>//localhost:1313/news/spacemathv_snap_spectacles_july2025/</guid>
       <description>&lt;p&gt;ハッカソンで「SpaceMathV」を共同制作しました。Snap Spectacles用の空間ARレンズで、直線、平面、円などの数学的概念を3D空間で可視化します。この教育ツールにより、学生は数式に物理的にインタラクトでき、抽象的な数学を具体的に体験できます。&lt;/p&gt;&#xA;&lt;p&gt;このプロジェクトは、数字との向き合い方を変革した先駆的な表計算ソフトウェア「Visicalc」に着想を得ています。&lt;/p&gt;&#xA;&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.spectacles.com/lens/8c8e856022f046c5a333beeb86c2d15c?type=SNAPCODE&amp;metadata=01&#34;&gt;SpaceMathVレンズを試す&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ja.wikipedia.org/wiki/VisiCalc&#34;&gt;Visicalcの歴史&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>福岡初のMeshtasticコミュニティイベント</title>
-      <link>/news/meshtastic_fukuoka_june2025/</link>
+      <link>//localhost:1313/news/meshtastic_fukuoka_june2025/</link>
       <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/news/meshtastic_fukuoka_june2025/</guid>
+      <guid>//localhost:1313/news/meshtastic_fukuoka_june2025/</guid>
       <description>&lt;p&gt;福岡エンジニアカフェで初のMeshtasticコミュニティイベントを開催し、オフラインメッシュネットワーキングを地域コミュニティに紹介しました。日本のパブリックMeshtasticノードは現在わずか7台で、サンフランシスコ・ベイエリアの350台以上と比較すると、ネットワーク拡大の余地が大きい状況です。&lt;/p&gt;&#xA;&lt;p&gt;イベントではMeshtasticの基礎を解説し、3Dプリンターで製作したデバイスケースのデモを行い、地域メッシュネットワークインフラ構築のための助成金の可能性について議論しました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spectacles Desk Window AR Release</title>
-      <link>/news/release_snapdeskwindow_ar_april2025/</link>
+      <link>//localhost:1313/news/release_snapdeskwindow_ar_april2025/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/news/release_snapdeskwindow_ar_april2025/</guid>
+      <guid>//localhost:1313/news/release_snapdeskwindow_ar_april2025/</guid>
       <description>&lt;p&gt;お知らせ：Snap Spectacles ARグラスへのデスクトップミラーリングを実現するオープンソースプロジェクトをリリースしました。プロジェクト名は「Spectacles Desk Window」です。Githubからダウンロードできます。デモはこちら： &lt;a href=&#34;https://github.com/IoTone/SpectaclesDeskWindow/&#34;&gt;https://github.com/IoTone/SpectaclesDeskWindow/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Dx2J5Gqqru0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>VisionDevCamp 2025 Fukuoka x Tokyo</title>
-      <link>/news/visiondevcamp2025_fukuoka_and_tokyo_april2025/</link>
+      <link>//localhost:1313/news/visiondevcamp2025_fukuoka_and_tokyo_april2025/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/news/visiondevcamp2025_fukuoka_and_tokyo_april2025/</guid>
+      <guid>//localhost:1313/news/visiondevcamp2025_fukuoka_and_tokyo_april2025/</guid>
       <description>&lt;p&gt;いよいよ２週間後に #VisionDevCamp 開催です！&#xA;申し込み枠にはまだ空きがありますのでぜひご登録ください^ ^&lt;/p&gt;&#xA;&lt;p&gt;日程: 4月11日-13日&lt;/p&gt;&#xA;&lt;p&gt;開発経験は問いません。&#xA;VRに興味のある方、デザインに興味のある方、アイデアをお持ちの方Apple Vision Proを触ってみたい方など&#xA;多くの人とアイデアを出し合ってハッカソンを楽しみましょう！&lt;/p&gt;&#xA;&lt;p&gt;質問があれば気軽にDMください^ ^&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://visiondevcamp-fukuoka.pages.dev/&#34;&gt;https://visiondevcamp-fukuoka.pages.dev/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.vdctokyo.org/&#34;&gt;https://www.vdctokyo.org/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://visiondevcamp.org/&#34;&gt;https://visiondevcamp.org/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;walkthrough&#34;&gt;Walkthrough&lt;/h2&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/xBGNC2dhcyI?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>Demo at CES2025</title>
-      <link>/news/democes2025/</link>
+      <link>//localhost:1313/news/democes2025/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/news/democes2025/</guid>
+      <guid>//localhost:1313/news/democes2025/</guid>
       <description>&lt;p&gt;ネバダ州ラスベガス: CES2025 のパラッツォ ホテルでデモを開催し、Global Scale Technologies の Cortadobin 製品と Snap Spectacles を使用した RallyMD AR プロジェクト コンセプトを紹介しました。&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://globalscaletechnologies.com/product/cortadobin/&#34;&gt;https://globalscaletechnologies.com/product/cortadobin/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.spectacles.com/&#34;&gt;https://www.spectacles.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>ＵEパートナー募集</title>
-      <link>/news/certifiedpartner_rocketmeisterjuly2025/</link>
+      <link>//localhost:1313/news/certifiedpartner_rocketmeisterjuly2025/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>/news/certifiedpartner_rocketmeisterjuly2025/</guid>
+      <guid>//localhost:1313/news/certifiedpartner_rocketmeisterjuly2025/</guid>
       <description>&lt;p&gt;2024年7月にUEパートナーのステータスを取得しました。&lt;/p&gt;&#xA;&lt;p&gt;ＵEパートナー募集&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://uematsudenki.com/uep-r/&#34;&gt;https://uematsudenki.com/uep-r/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>設立</title>
-      <link>/news/openjune2024/</link>
+      <link>//localhost:1313/news/openjune2024/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/news/openjune2024/</guid>
+      <guid>//localhost:1313/news/openjune2024/</guid>
       <description>&lt;p&gt;事務所を開設しました。&#xA;〒810-0001  福岡市中央区天神一丁目11番1号 ONE FUKUOKA BLDG. 7F&lt;/p&gt;&#xA;&lt;p&gt;商号          ＩｏＴｏｎｅ　Ｊａｐａｎ株式会社&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;設立年月日  令和６年５月２9日設立&lt;/p&gt;&#xA;&lt;p&gt;詳しいアクセス情報はこちら&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>/privacypolicy/</link>
+      <link>//localhost:1313/privacypolicy/</link>
       <pubDate>Tue, 10 Oct 2023 12:00:00 +0900</pubDate>
-      <guid>/privacypolicy/</guid>
+      <guid>//localhost:1313/privacypolicy/</guid>
       <description>&lt;p&gt;Last updated: Jan 28, 2025&lt;/p&gt;&#xA;&lt;h1 id=&#34;iotone-japan-privacy-policy&#34;&gt;IoTone Japan Privacy Policy&lt;/h1&gt;&#xA;&lt;h2 id=&#34;services&#34;&gt;Services&lt;/h2&gt;&#xA;&lt;p&gt;IoTone Japan Inc. (referred to as IoTone Japan, operating under the brand IoToneAI) offers a suite of social media management tools. These tools are offered as services for managing and analyzing social media feeds. As such, all data received via social networks (Twitter, Facebook, etc.) will additionally be subject to the terms and conditions and privacy policies of the social networks. Social networks will have their own policies for data collection and data retention which should be reviewed by users of IoTone Japan services.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Terms and Conditions</title>
-      <link>/termsandconditions/</link>
+      <link>//localhost:1313/termsandconditions/</link>
       <pubDate>Tue, 10 Oct 2023 12:00:00 +0900</pubDate>
-      <guid>/termsandconditions/</guid>
+      <guid>//localhost:1313/termsandconditions/</guid>
       <description>&lt;p&gt;Last updated: April 6, 2025&lt;/p&gt;&#xA;&lt;h1 id=&#34;terms-and-conditions&#34;&gt;Terms and Conditions&lt;/h1&gt;&#xA;&lt;p&gt;TERMS &amp;amp; CONDITIONS&lt;/p&gt;&#xA;&lt;p&gt;PLEASE READ THE FOLLOWING TERMS OF SERVICE AGREEMENT CAREFULLY. BY ACCESSING OR USING OUR WEBSITE (THE “SITE”) OR OUR SERVICES, YOU HEREBY AGREE TO BE BOUND BY THESE TERMS AND CONDITIONS AND ALL TERMS INCORPORATED HEREIN BY REFERENCE. IT IS THE RESPONSIBILITY OF YOU, THE USER, CUSTOMER, OR PROSPECTIVE CUSTOMER TO READ THE TERMS AND CONDITIONS BEFORE PROCEEDING TO USE THIS SITE. IF YOU DO NOT EXPRESSLY AGREE TO ALL OF THE TERMS AND CONDITIONS, THEN PLEASE DO NOT ACCESS OR USE OUR SITE OR OUR SERVICES.&lt;/p&gt;</description>
     </item>
     <item>
       <title>特定商取引法に基づく表記</title>
-      <link>/legal-notice/</link>
+      <link>//localhost:1313/legal-notice/</link>
       <pubDate>Tue, 10 Oct 2023 12:00:00 +0900</pubDate>
-      <guid>/legal-notice/</guid>
+      <guid>//localhost:1313/legal-notice/</guid>
       <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;事業者の名称&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;株式会社 IoTone Japan&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;所在地&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;福岡市城南区茶山４丁目 7 ー 12&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;電話番号&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;+81 50 5534 1953&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;メールアドレス&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;mailto:info@iotone.jp&#34;&gt;info@iotone.jp&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;運営統括責任者&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;David J Kordsmeier&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;追加手数料等の追加料金&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;契約書に記載の無い場合を除いて追加料金は無い&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;交換および返品&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;契約書に記載の無い限りは役務の性質上返品・返金はしない&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;引渡時期&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;契約締結時&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;受け付け可能な決済手段&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;銀行振込もしくはクレジットカード&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;決済期間&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;クレジットカード決済の場合はただちに処理されますが、国内の銀行振込の場合は請求書に記載の期日&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;販売価格&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;請求書に記載&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
     <item>
       <title>Events</title>
-      <link>/events/</link>
+      <link>//localhost:1313/events/</link>
       <pubDate>Fri, 27 Oct 2017 16:55:13 +0000</pubDate>
-      <guid>/events/</guid>
+      <guid>//localhost:1313/events/</guid>
       <description>&lt;h1 id=&#34;iotone-japan-tech-events&#34;&gt;IoTone Japan Tech Events&lt;/h1&gt;&#xA;&lt;p&gt;IoTone Japan offers a series of technology event sand conferences.&lt;/p&gt;&#xA;&lt;h2 id=&#34;conferences&#34;&gt;Conferences&lt;/h2&gt;&#xA;&lt;p&gt;IoTone Japan co-sponsors and produces the following events&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tokyo VisionDevCamp 2025 - &lt;a href=&#34;https://www.vdctokyo.org&#34;&gt;https://www.vdctokyo.org&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://visiondevcamp-fukuoka.pages.dev/&#34;&gt;Tokyo VisionDevCamp 2025 Fukuoka Satellite Event&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;meetups&#34;&gt;Meetups&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(Coming Soon) Fukuoka Meshtastic Club&lt;/li&gt;&#xA;&lt;li&gt;(Coming Soon) Fukuoka Spatial Technology Meetup&lt;/li&gt;&#xA;&lt;li&gt;Fukuoka Burning Man Meetup&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;education-events&#34;&gt;Education Events&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(Coming in Summmer 2025) Silicon Vally STEM Camp @ Fukuoka&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>サービス</title>
-      <link>/services/</link>
+      <link>//localhost:1313/services/</link>
       <pubDate>Fri, 27 Oct 2017 16:55:13 +0000</pubDate>
-      <guid>/services/</guid>
+      <guid>//localhost:1313/services/</guid>
       <description>&lt;h2 id=&#34;業務内容&#34;&gt;業務内容&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;ＩＴソフトウェアの開発、販売及びコンサルティング&lt;/li&gt;&#xA;&lt;li&gt;情報資産管理サービスの提供&lt;/li&gt;&#xA;&lt;li&gt;ＩｏＴによる予防医療技術の開発及びコンサルティング&lt;/li&gt;&#xA;&lt;li&gt;ＩｏＴ及びＡＩを使った生活用品の開発とサービスの提供　　&lt;/li&gt;&#xA;&lt;li&gt;教育サービスの提供及び教育玩具の販売　　&lt;/li&gt;&#xA;&lt;li&gt;ＡＲ及びＶＲの開発及びコンサルティング 　&lt;/li&gt;&#xA;&lt;li&gt;イベント及びセミナーの企画及び実施 　&lt;/li&gt;&#xA;&lt;li&gt;インターネットによる商品の販売&lt;/li&gt;&#xA;&lt;li&gt;人材派遣業 　&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;サービス&#34;&gt;サービス&lt;/h2&gt;&#xA;&lt;p&gt;IT ソフトウェアの開発、販売及びコンサルティング&#xA;IoTone Japan は A I /IoT /モバイル/VR などの IT 関連サービスに注力するエンジニアチーム&#xA;『IoTone チーム AI』を結成し、最新のシリコンバレーの技術を駆使し強い英語力を携え技術サー&#xA;ビス、英語によるセールス、テクニカルフィールドサポートを提供致します。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;IoT を使った予防医療技術の開発&lt;/li&gt;&#xA;&lt;li&gt;一般住居に対するセキュリティーや住居内の家電製品に紐付けできる新たなシステムの構築&lt;/li&gt;&#xA;&lt;li&gt;AR,VR の開発&lt;/li&gt;&#xA;&lt;li&gt;VR を使った運動系、宇宙系、不動産系にアプローチするプログラムの開発 それによるイ&#xA;ベントやセミナーの企画と実施&lt;/li&gt;&#xA;&lt;li&gt;教育サービスや教育玩具の開発とサービス&#xA;子供向け体験型サマーキャンプ（Imagination to Creation）&#xA;基本信念は衣・食・住・遊とし、参加者はキャンプを通し下記の４項目を学ぶことを目指します。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;何をしたら楽しいか（Imagination）&lt;/li&gt;&#xA;&lt;li&gt;いかに遊ぶかの実践&lt;/li&gt;&#xA;&lt;li&gt;遊びを通して作る（Create）&lt;/li&gt;&#xA;&lt;li&gt;間尺の生き方&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;IoTone Japan は、STEM 教育、英語、コーディングに重点を置いた子供向けサマーキャンプスク&#xA;ール「シリコンバレーSTEM キャンプ」を実施致します。&lt;br&gt;&#xA;このプログラムは、「シリコンバレー」のチームコラボレーションに基づいており、そこで学ぶスキ&#xA;ルには、子供たちが協力して作業し、現実世界の問題の解決と探究型学習を通じて学ぶ新しいアプ&#xA;ローチです。&lt;br&gt;&#xA;スタンフォード大学デザイン学部のアイデアである「デザイン思考」や「プロジェクトベース学&#xA;習」の手法を用い英語教育を基本に小学校で必須科目となっているコーディングを含むテクノロジ&#xA;ーを学びます。&lt;br&gt;&#xA;対象は小学校低学年から中学１年生位で、夏休み期間のみ限定で実施予定です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>会社概要</title>
-      <link>/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Fri, 27 Oct 2017 16:55:13 +0000</pubDate>
-      <guid>/about/</guid>
+      <guid>//localhost:1313/about/</guid>
       <description>&lt;p&gt;商号          株式会社IoTone Japan&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;設立年月日  令和６年５月２9日設立&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;所在地        〒810-0001 福岡市中央区天神一丁目11番1号 ONE FUKUOKA BLDG. 7F&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;事業内容      IoTを使った予防医療技術の開発、一般住居に対するセキュリティーや住居内の家電製品に紐付けできる新たなシステムの構築、AR・VRの開発、VRを使った運動系・宇宙系・不動産系にアプローチするプログラムの開発、それによるイベントやセミナーの企画と実施、教育サービスや教育玩具の開発とサービス&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;取引銀行      PayPay銀行、西日本シティー銀行&lt;/p&gt;</description>
     </item>
     <item>
       <title>Support</title>
-      <link>/support/</link>
+      <link>//localhost:1313/support/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/support/</guid>
+      <guid>//localhost:1313/support/</guid>
       <description>&lt;h2 id=&#34;customer-service&#34;&gt;Customer Service&lt;/h2&gt;&#xA;&lt;p&gt;Customer Service is available to handle issues with your order, handle disputes, and hopefully ensure a satisfactory experience.&lt;/p&gt;&#xA;&lt;p&gt;TEL: &amp;#43;81 90 5049 2056&#xA;E-Mail: info@iotone.jp&lt;/p&gt;&#xA;&lt;h2 id=&#34;policies&#34;&gt;Policies:&lt;/h2&gt;&#xA;&lt;p&gt;IoTone Japan seeks to deliver a satisfactory experience with every purchase of our services.&lt;/p&gt;&#xA;&lt;h3 id=&#34;returns--exchanges&#34;&gt;RETURNS &amp;amp; EXCHANGES&lt;/h3&gt;&#xA;&lt;p&gt;IoTone Japan gladly accepts returns and exchanges on all items received in like-new condition. Review the IoTone Japan Return and Exchange Policy below and then contact &lt;a href=&#34;mailto:returns@iotone.jp&#34;&gt;returns@iotone.jp&lt;/a&gt; with your order number &amp;amp; explanation for your return. We ask that you be as thorough as possible in describing your reason(s) for return, as detailed feedback directly correlates to improvements in both product design and company operations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>お問い合わせ</title>
-      <link>/contact/</link>
+      <link>//localhost:1313/contact/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/contact/</guid>
+      <guid>//localhost:1313/contact/</guid>
       <description>&lt;h2 id=&#34;本社&#34;&gt;本社:&lt;/h2&gt;&#xA;&lt;p&gt;〒810-0001  福岡市中央区天神一丁目11番1号 ONE FUKUOKA BLDG. 7F&lt;/p&gt;&#xA;&lt;h3 id=&#34;お問い合わせ&#34;&gt;お問い合わせ:&lt;/h3&gt;&#xA;&lt;p&gt;TEL: &amp;#43;81 90 5049 2056&lt;br&gt;&#xA;E-Mail: info@iotone.jp&lt;/p&gt;</description>
     </item>
   </channel>

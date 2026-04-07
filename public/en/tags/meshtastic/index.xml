@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meshtastic on 株式会社IoTone Japan</title>
-    <link>/en/tags/meshtastic/</link>
+    <link>//localhost:1313/en/tags/meshtastic/</link>
     <description>Recent content in Meshtastic on 株式会社IoTone Japan</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/en/tags/meshtastic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/en/tags/meshtastic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Meshtastic Community Event in Fukuoka</title>
-      <link>/en/news/meshtastic_fukuoka_june2025/</link>
+      <link>//localhost:1313/en/news/meshtastic_fukuoka_june2025/</link>
       <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/en/news/meshtastic_fukuoka_june2025/</guid>
+      <guid>//localhost:1313/en/news/meshtastic_fukuoka_june2025/</guid>
       <description>&lt;p&gt;We hosted the first community Meshtastic event at Fukuoka Engineer Cafe, introducing offline mesh networking to the local community. Japan currently has only 7 public Meshtastic nodes compared to over 350 in the San Francisco Bay Area, and our goal is to help expand that network.&lt;/p&gt;&#xA;&lt;p&gt;The event covered the basics of Meshtastic, demonstrated 3D-printed device cases, and discussed grant funding opportunities for building local mesh network infrastructure.&lt;/p&gt;</description>
     </item>
   </channel>
