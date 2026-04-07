@@ -1,0 +1,559 @@
+/* ============================================================
+   IoTone Japan 2026 Design System — Signal Grid
+   Inspired by The Designers Republic / Wipeout 2097
+   ============================================================ */
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Exo+2:wght@400;600;700&family=Inter:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700&display=swap');
+
+/* ---- CSS Custom Properties ---- */
+:root {
+  /* Primary */
+  --color-void-black: #0A0A0F;
+  --color-neon-orange: #FF6B00;
+  --color-electric-cyan: #00F0FF;
+  --color-signal-white: #F0F0F5;
+
+  /* Secondary */
+  --color-hot-magenta: #FF2D78;
+  --color-acid-yellow: #D4FF00;
+  --color-deep-navy: #12141F;
+  --color-grid-gray: #2A2D3A;
+
+  /* Functional */
+  --color-muted-cyan: #4A8B99;
+  --color-warm-gray: #8B8B99;
+  --color-error-red: #FF3333;
+  --color-surface-hover: rgba(0, 240, 255, 0.08);
+
+  /* Gradients */
+  --gradient-velocity: linear-gradient(135deg, #FF6B00, #FF2D78);
+  --gradient-circuit: linear-gradient(180deg, #0A0A0F, #12141F);
+  --gradient-signal: linear-gradient(90deg, #00F0FF, #D4FF00);
+  --gradient-fade: linear-gradient(180deg, transparent, #0A0A0F);
+
+  /* Typography */
+  --font-display: 'Orbitron', 'Exo 2', sans-serif;
+  --font-body: 'Inter', 'Noto Sans JP', sans-serif;
+  --font-ja: 'Noto Sans JP', 'Inter', sans-serif;
+}
+
+/* ---- Base Overrides ---- */
+
+body {
+  background: var(--color-void-black) !important;
+}
+
+body, input, select, textarea {
+  color: var(--color-signal-white) !important;
+  font-family: var(--font-body) !important;
+}
+
+:lang(ja) body,
+:lang(ja) input,
+:lang(ja) select,
+:lang(ja) textarea,
+html[lang="ja-JP"] body,
+html[lang="ja-JP"] input,
+html[lang="ja-JP"] select,
+html[lang="ja-JP"] textarea {
+  font-family: var(--font-ja) !important;
+  line-height: 1.8;
+}
+
+/* ---- Typography ---- */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display) !important;
+  color: var(--color-signal-white) !important;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  line-height: 1.1;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 900;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3 !important;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+/* ---- Links ---- */
+
+a {
+  color: var(--color-electric-cyan) !important;
+  border-bottom-color: rgba(0, 240, 255, 0.3) !important;
+  transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+}
+
+a:hover {
+  color: var(--color-signal-white) !important;
+  border-bottom-color: transparent !important;
+}
+
+/* ---- Buttons ---- */
+
+.button.primary,
+input[type="submit"].primary,
+input[type="reset"].primary,
+input[type="button"].primary,
+button.primary {
+  background-color: var(--color-neon-orange) !important;
+  color: var(--color-void-black) !important;
+  border: none !important;
+  font-family: var(--font-display) !important;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 0 0 20px rgba(255, 107, 0, 0.3);
+}
+
+.button.primary:hover,
+input[type="submit"].primary:hover {
+  background-color: var(--color-signal-white) !important;
+  color: var(--color-void-black) !important;
+  box-shadow: 0 0 30px rgba(255, 107, 0, 0.5);
+}
+
+.button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button {
+  font-family: var(--font-display) !important;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-color: var(--color-grid-gray) !important;
+  color: var(--color-signal-white) !important;
+  transition: all 0.2s ease-in-out;
+}
+
+.button:hover,
+input[type="submit"]:hover,
+input[type="reset"]:hover {
+  border-color: var(--color-electric-cyan) !important;
+  color: var(--color-electric-cyan) !important;
+}
+
+/* ---- Form Inputs ---- */
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="tel"],
+input[type="search"],
+input[type="url"],
+select,
+textarea {
+  background: rgba(240, 240, 245, 0.06) !important;
+  border: 1px solid var(--color-grid-gray) !important;
+  color: var(--color-signal-white) !important;
+  font-family: var(--font-body) !important;
+  transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="email"]:focus,
+input[type="tel"]:focus,
+input[type="search"]:focus,
+input[type="url"]:focus,
+select:focus,
+textarea:focus {
+  border-color: var(--color-electric-cyan) !important;
+  box-shadow: 0 0 10px rgba(0, 240, 255, 0.15) !important;
+  outline: none;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: var(--color-muted-cyan) !important;
+}
+
+/* ---- Header ---- */
+
+#header {
+  background: rgba(10, 10, 15, 0.85) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+#header.alt {
+  background: transparent !important;
+}
+
+#header h1 {
+  font-family: var(--font-display) !important;
+  font-size: 1rem;
+  letter-spacing: 0.15em;
+}
+
+#header h1 a {
+  color: var(--color-signal-white) !important;
+  border-bottom: none !important;
+}
+
+#header nav a {
+  color: var(--color-signal-white) !important;
+  border-bottom: none !important;
+}
+
+/* ---- Menu Panel ---- */
+
+#menu {
+  background: var(--color-deep-navy) !important;
+}
+
+#menu ul li a {
+  border-top-color: var(--color-grid-gray) !important;
+  font-family: var(--font-display) !important;
+  font-size: 0.8rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+#menu ul li a:hover {
+  color: var(--color-electric-cyan) !important;
+}
+
+/* ---- Banner ---- */
+
+#banner {
+  background: var(--color-void-black) !important;
+  position: relative;
+  overflow: hidden;
+}
+
+#banner::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image:
+    linear-gradient(rgba(0, 240, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 240, 255, 0.03) 1px, transparent 1px);
+  background-size: 60px 60px;
+  animation: gridShift 20s linear infinite;
+  pointer-events: none;
+  z-index: 0;
+}
+
+@keyframes gridShift {
+  0% { transform: translate(0, 0); }
+  100% { transform: translate(60px, 60px); }
+}
+
+#banner .inner {
+  position: relative;
+  z-index: 1;
+}
+
+#banner h2 {
+  font-family: var(--font-display) !important;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+}
+
+#banner h2::before,
+#banner h2::after {
+  background-color: var(--color-neon-orange) !important;
+}
+
+#banner p {
+  font-family: var(--font-display) !important;
+  color: var(--color-electric-cyan) !important;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  font-size: 0.9em;
+}
+
+#banner .more {
+  color: var(--color-signal-white) !important;
+  border-bottom: none !important;
+  font-family: var(--font-display) !important;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  font-size: 0.7em;
+}
+
+/* Banner logo image */
+#banner h2 img {
+  filter: drop-shadow(0 0 30px rgba(0, 240, 255, 0.3));
+  transition: filter 0.3s ease-in-out;
+}
+
+#banner h2 img:hover {
+  filter: drop-shadow(0 0 50px rgba(0, 240, 255, 0.5));
+}
+
+/* ---- Sections ---- */
+
+.wrapper {
+  position: relative;
+}
+
+.wrapper.style1 {
+  background: var(--color-void-black) !important;
+}
+
+.wrapper.style2 {
+  background: var(--color-deep-navy) !important;
+}
+
+.wrapper.style3 {
+  background: var(--color-void-black) !important;
+}
+
+.wrapper.style4 {
+  background: var(--gradient-velocity) !important;
+}
+
+.wrapper.style4 .button {
+  color: var(--color-void-black) !important;
+  border-color: var(--color-void-black) !important;
+}
+
+.wrapper.style4 .button:hover {
+  background: var(--color-void-black) !important;
+  color: var(--color-signal-white) !important;
+}
+
+.wrapper.style4 .button.primary {
+  background: var(--color-void-black) !important;
+  color: var(--color-signal-white) !important;
+}
+
+.wrapper.style4 .button.primary:hover {
+  background: var(--color-signal-white) !important;
+  color: var(--color-void-black) !important;
+}
+
+.wrapper.style5 {
+  background: var(--color-deep-navy) !important;
+}
+
+/* Section headers */
+.wrapper .major h2 {
+  color: var(--color-signal-white) !important;
+}
+
+.wrapper .major h2::after {
+  background-color: var(--color-neon-orange) !important;
+}
+
+/* ---- Spotlights ---- */
+
+.spotlights > section {
+  border-bottom-color: var(--color-grid-gray) !important;
+}
+
+/* ---- Features / Icons ---- */
+
+.features .icon {
+  color: var(--color-electric-cyan) !important;
+}
+
+.icon.style1 {
+  color: var(--color-neon-orange) !important;
+}
+
+.icon.style2 {
+  color: var(--color-electric-cyan) !important;
+}
+
+.icon.style3 {
+  color: var(--color-hot-magenta) !important;
+}
+
+/* ---- Contact Section ---- */
+
+#contact {
+  background: var(--color-deep-navy) !important;
+}
+
+#contact .major h2::after {
+  background-color: var(--color-electric-cyan) !important;
+}
+
+/* ---- Form Status Messages ---- */
+
+.form-status {
+  padding: 1em;
+  margin-top: 1em;
+  border-radius: 4px;
+  font-family: var(--font-body);
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+
+.form-status:empty {
+  display: none;
+}
+
+.form-status.success {
+  background: rgba(0, 240, 255, 0.1);
+  border: 1px solid var(--color-electric-cyan);
+  color: var(--color-electric-cyan);
+}
+
+.form-status.error {
+  background: rgba(255, 51, 51, 0.1);
+  border: 1px solid var(--color-error-red);
+  color: var(--color-error-red);
+}
+
+.form-status.loading {
+  background: rgba(255, 107, 0, 0.1);
+  border: 1px solid var(--color-neon-orange);
+  color: var(--color-neon-orange);
+}
+
+/* ---- Footer ---- */
+
+#footer {
+  background: var(--color-void-black) !important;
+  border-top: 1px solid var(--color-grid-gray);
+}
+
+#footer .icons a {
+  color: var(--color-muted-cyan) !important;
+  border: 1px solid var(--color-grid-gray) !important;
+  transition: all 0.2s ease-in-out;
+}
+
+#footer .icons a:hover {
+  color: var(--color-electric-cyan) !important;
+  border-color: var(--color-electric-cyan) !important;
+}
+
+#footer .copyright {
+  color: var(--color-warm-gray) !important;
+  font-family: var(--font-body);
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+}
+
+#footer .copyright a {
+  color: var(--color-muted-cyan) !important;
+}
+
+/* ---- Horizontal Rules ---- */
+
+hr {
+  border-bottom-color: var(--color-grid-gray) !important;
+}
+
+/* ---- Article / News List ---- */
+
+.post-list article {
+  border-bottom-color: var(--color-grid-gray) !important;
+}
+
+.post-list article time {
+  color: var(--color-muted-cyan);
+  font-family: var(--font-display);
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+/* ---- Pagination ---- */
+
+.pagination a {
+  color: var(--color-electric-cyan) !important;
+}
+
+.pagination .page-item.active a {
+  background: var(--color-neon-orange) !important;
+  color: var(--color-void-black) !important;
+}
+
+/* ---- Honeypot field (spam protection) ---- */
+
+.ohnohoney {
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 0;
+  width: 0;
+  z-index: -1;
+}
+
+/* ---- Responsive ---- */
+
+@media screen and (max-width: 736px) {
+  h1 { font-size: 1.8rem; }
+  h2 { font-size: 1.2rem; }
+  h3 { font-size: 1rem; }
+
+  #banner h2 img {
+    height: 80px !important;
+  }
+
+  #banner p {
+    font-size: 0.75em;
+    letter-spacing: 0.1em;
+  }
+
+  .form-status {
+    font-size: 0.9em;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  h1 { font-size: 1.4rem; }
+
+  #banner h2 img {
+    height: 60px !important;
+  }
+
+  /* Ensure touch targets are at least 44px */
+  input[type="submit"],
+  input[type="reset"],
+  input[type="button"],
+  .button {
+    min-height: 44px;
+    min-width: 44px;
+  }
+}
+
+/* ---- Subtle fade-in animation ---- */
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.wrapper .inner {
+  animation: fadeInUp 0.5s ease-out;
+}
+
+/* ---- Neon glow utility ---- */
+
+.neon-glow {
+  text-shadow: 0 0 10px rgba(0, 240, 255, 0.5), 0 0 20px rgba(0, 240, 255, 0.3);
+}
+
+.neon-glow-orange {
+  text-shadow: 0 0 10px rgba(255, 107, 0, 0.5), 0 0 20px rgba(255, 107, 0, 0.3);
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thread on 株式会社IoTone Japan</title>
+    <link>/tags/thread/</link>
+    <description>Recent content in Thread on 株式会社IoTone Japan</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/thread/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>サイバーデッキP2Pチャット：ESP32-C6によるThreadベースメッシュネットワーキング</title>
+      <link>/news/cyberdeck_p2p_chat_feb2026/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/news/cyberdeck_p2p_chat_feb2026/</guid>
+      <description>&lt;p&gt;4台のESP32-C6ノード間でのThreadベースP2Pチャットの開発が大きく進展しました。このシステムは、シリアルUART経由のブロードキャストメッセージングと1対1のダイレクトメッセージングを実現し、デバイスあたりのコストは8ドル未満です。&lt;/p&gt;&#xA;&lt;p&gt;OLPCのインフラフリープロトコルに着想を得たこの取り組みは、STEM教育を対象としており、XR向けメッシュネットワーキング、ウェアラブルパーソナルエリアネットワーク（PAN）、Hive Centric AIの3つの研究方向を探求しています。&lt;/p&gt;&#xA;&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/IoTone/ProjectMagNET/blob/dev/reference-designs/MagNET_Thread_COaP_hanasu_esp32c6/README.md&#34;&gt;ハードウェアセットアップガイド＆コード（GitHub）&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>M5NanoC6によるThread/Matterメッシュネットワーキング実験</title>
+      <link>/news/thread_matter_mesh_oct2025/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/news/thread_matter_mesh_oct2025/</guid>
+      <description>&lt;p&gt;M5NanoC6を使用したArduinoベースのメッシュネットワーキング実験を行っています。インフラを必要としないアドホックネットワークの構築を目指しており、IR、AirDrop、BLE Meshに着想を得たデバイス間通信機能の復活を目標としています。&lt;/p&gt;&#xA;&lt;p&gt;テストでは2台のノードで約24メートルの安定した通信範囲を確認しました。次のステップとして、汎用コードベースの整備とUARTチャットインターフェースの開発を進めています。&lt;/p&gt;&#xA;&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/IoTone/ProjectMagNET/tree/dev/reference-designs/MagNET_Thread_COaP_switch_esp32c6&#34;&gt;スイッチリファレンスデザイン（GitHub）&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.m5stack.com/en/core/M5NanoC6&#34;&gt;M5NanoC6製品ページ&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

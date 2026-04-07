@@ -1,0 +1,49 @@
+<!-- Google Fonts Preconnect -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<!-- JSON-LD Structured Data -->
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "IoTone Japan",
+  "alternateName": "株式会社IoTone Japan",
+  "url": "https://iotoneai.site",
+  "logo": "https://iotoneai.site/images/design2026/concept-b-primary.svg",
+  "description": "{{ .Site.Params.description }}",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+81-90-5049-2056",
+    "contactType": "sales",
+    "areaServed": "JP",
+    "availableLanguage": ["Japanese", "English"]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7F, ONE FUKUOKA BLDG., 1-11-1 Tenjin",
+    "addressLocality": "Chuo-ku, Fukuoka-shi, Fukuoka",
+    "postalCode": "810-0001",
+    "addressCountry": "JP"
+  },
+  "sameAs": [
+    {{ with .Site.Params.social.twitter }}"https://twitter.com/{{ . }}",{{ end }}
+    {{ with .Site.Params.social.github }}"https://github.com/{{ . }}",{{ end }}
+    {{ with .Site.Params.social.youtube }}"https://youtube.com/{{ . }}",{{ end }}
+    {{ with .Site.Params.social.facebook }}"https://facebook.com/{{ . }}",{{ end }}
+    {{ with .Site.Params.social.instagram }}"https://instagram.com/{{ . }}",{{ end }}
+    {{ with .Site.Params.social.mastodon }}"https://mastodon.social/{{ . }}"{{ end }}
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "alternateName": "IoTone Japan",
+  "url": "https://iotoneai.site"
+}
+</script>
+{{ end }}

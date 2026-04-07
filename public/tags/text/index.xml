@@ -2,24 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Text on 株式会社IoTone Japan</title>
-    <link>//localhost:1313/tags/text/</link>
+    <link>/tags/text/</link>
     <description>Recent content in Text on 株式会社IoTone Japan</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/text/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo at CES2025</title>
-      <link>//localhost:1313/news/en/democes2025/</link>
+      <link>/news/democes2025/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/news/en/democes2025/</guid>
-      <description>&lt;p&gt;Las Vegas, NV: IoTone Japan held a demo at the Palazzo Hotel at CES2025 showcasing Global Scale Technologies’ RallyMD AR project concept using Cortadobin products and Snap Spectacles.&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://globalscaletechnologies.com/product/cortadobin/&#34;&gt;https://globalscaletechnologies.com/product/cortadobin/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.spectacles.com/&#34;&gt;https://www.spectacles.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Demo at CES2025</title>
-      <link>//localhost:1313/news/ja/democes2025/</link>
-      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/news/ja/democes2025/</guid>
+      <guid>/news/democes2025/</guid>
       <description>&lt;p&gt;ネバダ州ラスベガス: CES2025 のパラッツォ ホテルでデモを開催し、Global Scale Technologies の Cortadobin 製品と Snap Spectacles を使用した RallyMD AR プロジェクト コンセプトを紹介しました。&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://globalscaletechnologies.com/product/cortadobin/&#34;&gt;https://globalscaletechnologies.com/product/cortadobin/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.spectacles.com/&#34;&gt;https://www.spectacles.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

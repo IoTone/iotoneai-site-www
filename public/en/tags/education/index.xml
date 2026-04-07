@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on 株式会社IoTone Japan</title>
+    <link>/en/tags/education/</link>
+    <description>Recent content in Education on 株式会社IoTone Japan</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/en/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SpaceMathV: Spatial AR Math Visualization on Snap Spectacles</title>
+      <link>/en/news/spacemathv_snap_spectacles_july2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/en/news/spacemathv_snap_spectacles_july2025/</guid>
+      <description>&lt;p&gt;At a recent hackathon, we collaborated to create &amp;ldquo;SpaceMathV,&amp;rdquo; a spatial AR lens for Snap Spectacles that visualizes mathematical concepts including lines, planes, and circles in 3D space. This educational tool allows students to physically interact with equations, making abstract math tangible.&lt;/p&gt;&#xA;&lt;p&gt;The project was inspired by Visicalc, the pioneering spreadsheet software that transformed how people interact with numbers.&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.spectacles.com/lens/8c8e856022f046c5a333beeb86c2d15c?type=SNAPCODE&amp;metadata=01&#34;&gt;Try the SpaceMathV Lens&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/VisiCalc&#34;&gt;Visicalc history&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

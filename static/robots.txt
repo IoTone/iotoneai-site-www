@@ -1,3 +1,4 @@
 User-agent: *
-Disallow: /imprint/
-Disallow: /en/imprint/
+Disallow:
+
+Sitemap: https://iotoneai.site/sitemap.xml

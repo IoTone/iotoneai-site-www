@@ -10,5 +10,5 @@ draft: false
 
 ### Contact:
 
-TEL: {{< param contact.phone >}}
+TEL: {{< param contact.phone >}}  
 E-Mail: {{< param contact.email >}}

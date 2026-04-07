@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on 株式会社IoTone Japan</title>
+    <link>/tags/education/</link>
+    <description>Recent content in Education on 株式会社IoTone Japan</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SpaceMathV：Snap Spectaclesで空間AR数学ビジュアライゼーション</title>
+      <link>/news/spacemathv_snap_spectacles_july2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/news/spacemathv_snap_spectacles_july2025/</guid>
+      <description>&lt;p&gt;ハッカソンで「SpaceMathV」を共同制作しました。Snap Spectacles用の空間ARレンズで、直線、平面、円などの数学的概念を3D空間で可視化します。この教育ツールにより、学生は数式に物理的にインタラクトでき、抽象的な数学を具体的に体験できます。&lt;/p&gt;&#xA;&lt;p&gt;このプロジェクトは、数字との向き合い方を変革した先駆的な表計算ソフトウェア「Visicalc」に着想を得ています。&lt;/p&gt;&#xA;&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.spectacles.com/lens/8c8e856022f046c5a333beeb86c2d15c?type=SNAPCODE&amp;metadata=01&#34;&gt;SpaceMathVレンズを試す&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ja.wikipedia.org/wiki/VisiCalc&#34;&gt;Visicalcの歴史&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

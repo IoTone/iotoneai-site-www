@@ -16,4 +16,8 @@ Business: Development of preventive medical technology using IoT, building new s
 
 ---
 
-Banking: PayPay Bank, Nishi-Nippon City Bank, Nanakuma Branch
+Address: 7F, ONE FUKUOKA BLDG., 1-11-1 Tenjin, Chuo-ku, Fukuoka-shi, Fukuoka 810-0001, Japan
+
+---
+
+Banking: PayPay Bank, Nishi-Nippon City Bank

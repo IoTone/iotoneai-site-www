@@ -2,52 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 株式会社IoTone Japan</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on 株式会社IoTone Japan</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Index</title>
-      <link>//localhost:1313/tags/index/</link>
-      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/index/</guid>
+      <link>/tags/index/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/index/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iot</title>
+      <link>/tags/iot/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/iot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mesh</title>
+      <link>/tags/mesh/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/mesh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thread</title>
+      <link>/tags/thread/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/thread/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ar</title>
+      <link>/tags/ar/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/ar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gaming</title>
+      <link>/tags/gaming/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/gaming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lensfest</title>
+      <link>/tags/lensfest/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/lensfest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Snap-Spectacles</title>
+      <link>/tags/snap-spectacles/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/snap-spectacles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ces</title>
+      <link>/tags/ces/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/ces/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xr</title>
+      <link>/tags/xr/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/xr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Matter</title>
+      <link>/tags/matter/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/matter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>/tags/education/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Community</title>
+      <link>/tags/community/</link>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/community/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meshtastic</title>
+      <link>/tags/meshtastic/</link>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/meshtastic/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>//localhost:1313/tags/markdown/</link>
+      <link>/tags/markdown/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/markdown/</guid>
+      <guid>/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Text</title>
-      <link>//localhost:1313/tags/text/</link>
+      <link>/tags/text/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/text/</guid>
+      <guid>/tags/text/</guid>
       <description></description>
     </item>
     <item>
       <title>Css</title>
-      <link>//localhost:1313/tags/css/</link>
+      <link>/tags/css/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/css/</guid>
+      <guid>/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>//localhost:1313/tags/html/</link>
+      <link>/tags/html/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/html/</guid>
+      <guid>/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>//localhost:1313/tags/emoji/</link>
+      <link>/tags/emoji/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/emoji/</guid>
+      <guid>/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>

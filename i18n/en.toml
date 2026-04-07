@@ -1,0 +1,41 @@
+[menu]
+other = "Menu"
+
+[learnmore]
+other = "Learn More"
+
+[name]
+other = "Name"
+
+[email]
+other = "Email"
+
+[phone]
+other = "Phone"
+
+[address]
+other = "Address"
+
+[yourmessage]
+other = "Your Message"
+
+[send]
+other = "Send"
+
+[reset]
+other = "Reset"
+
+[allarticles]
+other = "All Articles"
+
+[readmore]
+other = "Read more…"
+
+[formsending]
+other = "Sending..."
+
+[formsuccess]
+other = "Message sent successfully!"
+
+[formerror]
+other = "There was an error sending your message. Please try again."

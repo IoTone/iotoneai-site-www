@@ -1,5 +1,3 @@
+# Geo-based language redirect (uncomment to enable)
 #/	/en	302	Country=gb,us,au,nz
-#
 #/	/en	302	Language=en
-/mail /webmail/ 302
-/webmail/*	https://home.sbruder.de/mail/:splat	200
