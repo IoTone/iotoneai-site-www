@@ -2,602 +2,602 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2026-03-24T00:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/"
+                href="/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/index/</loc>
+    <loc>/tags/index/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/index/"
+                href="/en/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/index/"
+                href="/tags/index/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/iot/</loc>
+    <loc>/tags/iot/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/iot/"
+                href="/en/tags/iot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/iot/"
+                href="/tags/iot/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/mesh/</loc>
+    <loc>/tags/mesh/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/mesh/"
+                href="/en/tags/mesh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/mesh/"
+                href="/tags/mesh/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/"
+                href="/tags/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/thread/</loc>
+    <loc>/tags/thread/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/thread/"
+                href="/en/tags/thread/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/thread/"
+                href="/tags/thread/"
                 />
   </url><url>
-    <loc>//localhost:1313/news/cyberdeck_p2p_chat_feb2026/</loc>
+    <loc>/news/cyberdeck_p2p_chat_feb2026/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/news/cyberdeck_p2p_chat_feb2026/"
+                href="/en/news/cyberdeck_p2p_chat_feb2026/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/news/cyberdeck_p2p_chat_feb2026/"
+                href="/news/cyberdeck_p2p_chat_feb2026/"
                 />
   </url><url>
-    <loc>//localhost:1313/news/</loc>
+    <loc>/news/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/news/"
+                href="/en/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/news/"
+                href="/news/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/ar/</loc>
+    <loc>/tags/ar/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/ar/"
+                href="/en/tags/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/ar/"
+                href="/tags/ar/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/gaming/</loc>
+    <loc>/tags/gaming/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/gaming/"
+                href="/en/tags/gaming/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/gaming/"
+                href="/tags/gaming/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/lensfest/</loc>
+    <loc>/tags/lensfest/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/lensfest/"
+                href="/en/tags/lensfest/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/lensfest/"
+                href="/tags/lensfest/"
                 />
   </url><url>
-    <loc>//localhost:1313/news/nofoosballnolife_lensfest_feb2026/</loc>
+    <loc>/news/nofoosballnolife_lensfest_feb2026/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/news/nofoosballnolife_lensfest_feb2026/"
+                href="/en/news/nofoosballnolife_lensfest_feb2026/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/news/nofoosballnolife_lensfest_feb2026/"
+                href="/news/nofoosballnolife_lensfest_feb2026/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/snap-spectacles/</loc>
+    <loc>/tags/snap-spectacles/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/snap-spectacles/"
+                href="/en/tags/snap-spectacles/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/snap-spectacles/"
+                href="/tags/snap-spectacles/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/ces/</loc>
+    <loc>/tags/ces/</loc>
     <lastmod>2026-01-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/ces/"
+                href="/en/tags/ces/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/ces/"
+                href="/tags/ces/"
                 />
   </url><url>
-    <loc>//localhost:1313/news/ces2026_xr_glasses_review_jan2026/</loc>
+    <loc>/news/ces2026_xr_glasses_review_jan2026/</loc>
     <lastmod>2026-01-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/news/ces2026_xr_glasses_review_jan2026/"
+                href="/en/news/ces2026_xr_glasses_review_jan2026/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/news/ces2026_xr_glasses_review_jan2026/"
+                href="/news/ces2026_xr_glasses_review_jan2026/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/xr/</loc>
+    <loc>/tags/xr/</loc>
     <lastmod>2026-01-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/xr/"
+                href="/en/tags/xr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/xr/"
+                href="/tags/xr/"
                 />
   </url><url>
-    <loc>//localhost:1313/news/thread_matter_mesh_oct2025/</loc>
+    <loc>/news/thread_matter_mesh_oct2025/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/news/thread_matter_mesh_oct2025/"
+                href="/en/news/thread_matter_mesh_oct2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/news/thread_matter_mesh_oct2025/"
+                href="/news/thread_matter_mesh_oct2025/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/matter/</loc>
+    <loc>/tags/matter/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/matter/"
+                href="/en/tags/matter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/matter/"
+                href="/tags/matter/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/education/</loc>
+    <loc>/tags/education/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/education/"
+                href="/en/tags/education/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/education/"
+                href="/tags/education/"
                 />
   </url><url>
-    <loc>//localhost:1313/news/spacemathv_snap_spectacles_july2025/</loc>
+    <loc>/news/spacemathv_snap_spectacles_july2025/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/news/spacemathv_snap_spectacles_july2025/"
+                href="/en/news/spacemathv_snap_spectacles_july2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/news/spacemathv_snap_spectacles_july2025/"
+                href="/news/spacemathv_snap_spectacles_july2025/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/community/</loc>
+    <loc>/tags/community/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/community/"
+                href="/en/tags/community/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/community/"
+                href="/tags/community/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/meshtastic/</loc>
+    <loc>/tags/meshtastic/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/meshtastic/"
+                href="/en/tags/meshtastic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/meshtastic/"
+                href="/tags/meshtastic/"
                 />
   </url><url>
-    <loc>//localhost:1313/news/meshtastic_fukuoka_june2025/</loc>
+    <loc>/news/meshtastic_fukuoka_june2025/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/news/meshtastic_fukuoka_june2025/"
+                href="/en/news/meshtastic_fukuoka_june2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/news/meshtastic_fukuoka_june2025/"
+                href="/news/meshtastic_fukuoka_june2025/"
                 />
   </url><url>
-    <loc>//localhost:1313/news/release_snapdeskwindow_ar_april2025/</loc>
+    <loc>/news/release_snapdeskwindow_ar_april2025/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/news/release_snapdeskwindow_ar_april2025/"
+                href="/en/news/release_snapdeskwindow_ar_april2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/news/release_snapdeskwindow_ar_april2025/"
+                href="/news/release_snapdeskwindow_ar_april2025/"
                 />
   </url><url>
-    <loc>//localhost:1313/news/visiondevcamp2025_fukuoka_and_tokyo_april2025/</loc>
+    <loc>/news/visiondevcamp2025_fukuoka_and_tokyo_april2025/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/news/visiondevcamp2025_fukuoka_and_tokyo_april2025/"
+                href="/en/news/visiondevcamp2025_fukuoka_and_tokyo_april2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/news/visiondevcamp2025_fukuoka_and_tokyo_april2025/"
+                href="/news/visiondevcamp2025_fukuoka_and_tokyo_april2025/"
                 />
   </url><url>
-    <loc>//localhost:1313/news/democes2025/</loc>
+    <loc>/news/democes2025/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/news/democes2025/"
+                href="/en/news/democes2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/news/democes2025/"
+                href="/news/democes2025/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/markdown/</loc>
+    <loc>/tags/markdown/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/markdown/"
+                href="/en/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/markdown/"
+                href="/tags/markdown/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/text/</loc>
+    <loc>/tags/text/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/text/"
+                href="/en/tags/text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/text/"
+                href="/tags/text/"
                 />
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/categories/"
+                href="/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/css/</loc>
+    <loc>/tags/css/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/css/"
+                href="/en/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/css/"
+                href="/tags/css/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/html/</loc>
+    <loc>/tags/html/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/html/"
+                href="/en/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/html/"
+                href="/tags/html/"
                 />
   </url><url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>/series/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/series/"
+                href="/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/series/"
+                href="/series/"
                 />
   </url><url>
-    <loc>//localhost:1313/categories/syntax/</loc>
+    <loc>/categories/syntax/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/categories/syntax/"
+                href="/en/categories/syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/categories/syntax/"
+                href="/categories/syntax/"
                 />
   </url><url>
-    <loc>//localhost:1313/categories/themes/</loc>
+    <loc>/categories/themes/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/categories/themes/"
+                href="/en/categories/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/categories/themes/"
+                href="/categories/themes/"
                 />
   </url><url>
-    <loc>//localhost:1313/series/themes-guide/</loc>
+    <loc>/series/themes-guide/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/series/themes-guide/"
+                href="/en/series/themes-guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/series/themes-guide/"
+                href="/series/themes-guide/"
                 />
   </url><url>
-    <loc>//localhost:1313/news/certifiedpartner_rocketmeisterjuly2025/</loc>
+    <loc>/news/certifiedpartner_rocketmeisterjuly2025/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/news/certifiedpartner_rocketmeisterjuly2025/"
+                href="/en/news/certifiedpartner_rocketmeisterjuly2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/news/certifiedpartner_rocketmeisterjuly2025/"
+                href="/news/certifiedpartner_rocketmeisterjuly2025/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/emoji/</loc>
+    <loc>/tags/emoji/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/emoji/"
+                href="/en/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/tags/emoji/"
+                href="/tags/emoji/"
                 />
   </url><url>
-    <loc>//localhost:1313/news/openjune2024/</loc>
+    <loc>/news/openjune2024/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/news/openjune2024/"
+                href="/en/news/openjune2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/news/openjune2024/"
+                href="/news/openjune2024/"
                 />
   </url><url>
-    <loc>//localhost:1313/privacypolicy/</loc>
+    <loc>/privacypolicy/</loc>
     <lastmod>2023-10-10T12:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/privacypolicy/"
+                href="/en/privacypolicy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/privacypolicy/"
+                href="/privacypolicy/"
                 />
   </url><url>
-    <loc>//localhost:1313/termsandconditions/</loc>
+    <loc>/termsandconditions/</loc>
     <lastmod>2023-10-10T12:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/termsandconditions/"
+                href="/en/termsandconditions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/termsandconditions/"
+                href="/termsandconditions/"
                 />
   </url><url>
-    <loc>//localhost:1313/legal-notice/</loc>
+    <loc>/legal-notice/</loc>
     <lastmod>2023-10-10T12:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/legal-notice/"
+                href="/en/legal-notice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/legal-notice/"
+                href="/legal-notice/"
                 />
   </url><url>
-    <loc>//localhost:1313/events/</loc>
+    <loc>/events/</loc>
     <lastmod>2017-10-27T16:55:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/events/"
+                href="/en/events/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/events/"
+                href="/events/"
                 />
   </url><url>
-    <loc>//localhost:1313/services/</loc>
+    <loc>/services/</loc>
     <lastmod>2017-10-27T16:55:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/services/"
+                href="/en/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/services/"
+                href="/services/"
                 />
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2017-10-27T16:55:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/about/"
+                href="/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/about/"
+                href="/about/"
                 />
   </url><url>
-    <loc>//localhost:1313/support/</loc>
+    <loc>/support/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/support/"
+                href="/en/support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/support/"
+                href="/support/"
                 />
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/contact/"
+                href="/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/contact/"
+                href="/contact/"
                 />
   </url>
 </urlset>

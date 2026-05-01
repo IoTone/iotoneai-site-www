@@ -4,8 +4,7 @@
   var form = document.getElementById('contact-form');
   if (!form) return;
 
-  var GRIST_URL = 'https://iotoneinc.getgrist.com/api/docs/wzU3aNhDLNr3LyXkuHJyC6/tables/Table1/records';
-  var GRIST_API_KEY = 'c904cacd439d922b48e4a9be99c0790c189bd3d1';
+  var WORKER_URL = 'https://iotone-contact.dkords.workers.dev';
 
   form.addEventListener('submit', function(e) {
     e.preventDefault();
@@ -36,9 +35,8 @@
     };
 
     var xhr = new XMLHttpRequest();
-    xhr.open('POST', GRIST_URL, true);
+    xhr.open('POST', WORKER_URL, true);
     xhr.setRequestHeader('Content-Type', 'application/json');
-    xhr.setRequestHeader('Authorization', 'Bearer ' + GRIST_API_KEY);
 
     xhr.onload = function() {
       if (xhr.status >= 200 && xhr.status < 300) {
