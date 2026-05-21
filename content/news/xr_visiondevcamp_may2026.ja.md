@@ -1,8 +1,8 @@
 ---
 author: IoTJ
-title: "XR VisionDevCamp 2026 開催のお知らせ"
+title: "申込開始: XR VisionDevCamp Fukuoka 2026 (6月26日〜28日)"
 date: 2026-05-01
-description: XR VisionDevCamp 2026が公開されました。福岡・東京で開催される国際AR/VR/XRハッカソンコミュニティにぜひご参加ください。
+description: XR VisionDevCamp Fukuoka 2026 — 2026年6月26日〜28日、福岡CIC内エンジニアカフェにて開催される2.5日間のXR/AR/VRハッカソン。参加申込受付中。株式会社IoTone Japanは引き続きジェネラルスポンサーとして参加します。
 tags:
     - xr
     - ar
@@ -10,18 +10,40 @@ tags:
     - hackathon
     - visiondevcamp
     - fukuoka
-    - tokyo
 ---
 
-VisionDevCampシリーズの次章となる「**XR VisionDevCamp 2026**」の開催をお知らせいたします。VisionDevCamp 2025の成功を受け、本イベントはAR・VR・複合現実(MR)を含むXR全領域へと範囲を拡大し、世界中の開発者・デザイナー・クリエイターをお迎えします。
+空間コンピューティング時代のハッカソン「**XR VisionDevCamp Fukuoka 2026**」の参加申込が開始されました。**2026年6月26日(金)〜28日(日)**、福岡市中央区天神 **ONE FUKUOKA BLDG.内 CIC Fukuoka エンジニアカフェ** にて開催されます。株式会社IoTone Japanはジェネラルスポンサーとして引き続き本イベントを支援いたします。
 
-## イベントサイト
+- イベントサイト: [https://www.xrvdc.org](https://www.xrvdc.org)
+- 参加申込: [https://luma.com/i5gerreb](https://luma.com/i5gerreb)
 
-- 日本語: [https://xrvdc.pages.dev/ja](https://xrvdc.pages.dev/ja)
-- English: [https://xrvdc.pages.dev/](https://xrvdc.pages.dev/)
+## ハッカソン概要
 
-## 参加方法
+XR VisionDevCampは、iPhoneDevCamp (2007〜2009)、VisionDevCamp (2024〜2025)から続く約20年のハッカソンの歴史を受け継ぎ、2026年はXR全領域へとスコープを拡大します。
 
-経験豊富なXR開発者の方も、これからXRに挑戦される方も、XR VisionDevCampは共に創り、コラボレーションし、印象に残る成果を発表する場です。参加・スポンサー・メンター・ボランティア等にご興味のある方は、ぜひお問い合わせください。
+- **競争より協働。** チーム間でコードと知識を共有します。
+- **年齢・経験を問わず参加可能。** 参加資格に制限はなく、初心者向けの学習セッションとチーム編成支援を実施します。
+- **バイリンガル対応。** 日本語・英語で進行します。
+- **1〜6名のチーム編成** (個人参加も歓迎)。複数チームへの参加も可能です。
+- 期間中、**機材の貸し出し**を行います。
 
-株式会社IoTone Japanは、国際的なXRハッカソンコミュニティへの支援を継続してまいります。
+開発対象は、空間コンピューティング時代の主要プラットフォーム — **Apple Vision Pro、Android XR、Meta Quest、Snap Spectacles、Xreal、HTC** デバイス等です。
+
+## イベント形式
+
+週末はハッカソン、ARエキスポ、クロージング表彰式で締めくくられます。審査は柔軟に行われ、優れた作品があれば審査員がその場で新たな表彰カテゴリを設けることもあります。受賞者にはSNSでの紹介、広報協力、および少額の賞金が贈呈されます。
+
+## スポンサー
+
+- **Gracia.ai** — テクニカルパートナー (SDKサンプル提供および技術支援)
+- **CIC Fukuoka** — 会場パートナー
+- **エンジニアカフェ** — 会場パートナー
+- **株式会社IoTone Japan** — ジェネラルスポンサー
+
+機材スポンサー、賞品スポンサー、会場パートナー、ケータリング協賛など、各種スポンサー枠の募集も継続中です。ご関心のある企業様はイベントサイトよりお問い合わせください。
+
+## お申込み方法
+
+参加申込はLu.maより受け付けています: **[luma.com/i5gerreb](https://luma.com/i5gerreb)**。イベント詳細・スケジュール・バッジ情報等は **[xrvdc.org](https://www.xrvdc.org)** をご覧ください。
+
+福岡でお会いしましょう。

@@ -8,7 +8,11 @@ draft: false
 
 IoTone Japan offers a series of technology event sand conferences.
 
-## Conferences
+## Upcoming Conferences
+
+* **[XR VisionDevCamp Fukuoka 2026](https://www.xrvdc.org)** — June 26–28, 2026 · Engineer Café at CIC (One Building), Fukuoka. A 2.5-day XR/AR/VR hackathon for all ages and experience levels. Japanese and English spoken. [Register on Lu.ma](https://luma.com/i5gerreb).
+
+## Past Conferences
 
 IoTone Japan co-sponsors and produces the following events
 
@@ -17,10 +21,9 @@ IoTone Japan co-sponsors and produces the following events
 
 ## Meetups
 
-* (Coming Soon) Fukuoka Meshtastic Club
+* [Fukuoka Meshtastic Club](https://offlinesns.pages.dev/#/)
 * (Coming Soon) Fukuoka Spatial Technology Meetup
-* Fukuoka Burning Man Meetup
 
 ## Education Events
 
-* (Coming in Summmer 2025) Silicon Vally STEM Camp @ Fukuoka
+* (July 2024) Silicon Valley STEM Camp @ Fukuoka

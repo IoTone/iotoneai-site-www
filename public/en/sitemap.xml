@@ -158,17 +158,17 @@
                 href="/en/tags/hackathon/"
                 />
   </url><url>
-    <loc>/en/tags/tokyo/</loc>
+    <loc>/en/news/xr_visiondevcamp_may2026/</loc>
     <lastmod>2026-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/tags/tokyo/"
+                href="/news/xr_visiondevcamp_may2026/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/tokyo/"
+                href="/en/news/xr_visiondevcamp_may2026/"
                 />
   </url><url>
     <loc>/en/tags/visiondevcamp/</loc>
@@ -208,19 +208,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/xr/"
-                />
-  </url><url>
-    <loc>/en/news/xr_visiondevcamp_may2026/</loc>
-    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="/news/xr_visiondevcamp_may2026/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/news/xr_visiondevcamp_may2026/"
                 />
   </url><url>
     <loc>/en/news/cyberdeck_p2p_chat_feb2026/</loc>
