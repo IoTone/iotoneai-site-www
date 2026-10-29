@@ -2,185 +2,220 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 株式会社IoTone Japan</title>
-    <link>/tags/</link>
+    <link>https://www.iotoneai.site/tags/</link>
     <description>Recent content in Tags on 株式会社IoTone Japan</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 05 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.iotoneai.site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai</title>
+      <link>https://www.iotoneai.site/tags/ai/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.iotoneai.site/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Android-Xr</title>
+      <link>https://www.iotoneai.site/tags/android-xr/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.iotoneai.site/tags/android-xr/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ar</title>
-      <link>/tags/ar/</link>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/ar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bootcamp</title>
-      <link>/tags/bootcamp/</link>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/bootcamp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gaming</title>
-      <link>/tags/gaming/</link>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/gaming/</guid>
+      <link>https://www.iotoneai.site/tags/ar/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.iotoneai.site/tags/ar/</guid>
       <description></description>
     </item>
     <item>
       <title>Index</title>
-      <link>/tags/index/</link>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/index/</guid>
+      <link>https://www.iotoneai.site/tags/index/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.iotoneai.site/tags/index/</guid>
       <description></description>
     </item>
     <item>
-      <title>Snap-Spectacles</title>
-      <link>/tags/snap-spectacles/</link>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/snap-spectacles/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Synckit</title>
-      <link>/tags/synckit/</link>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/synckit/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fukuoka</title>
-      <link>/tags/fukuoka/</link>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/fukuoka/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hackathon</title>
-      <link>/tags/hackathon/</link>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/hackathon/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Visiondevcamp</title>
-      <link>/tags/visiondevcamp/</link>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/visiondevcamp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vr</title>
-      <link>/tags/vr/</link>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/vr/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Xr</title>
-      <link>/tags/xr/</link>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/xr/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Iot</title>
-      <link>/tags/iot/</link>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/iot/</guid>
+      <title>Lora</title>
+      <link>https://www.iotoneai.site/tags/lora/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.iotoneai.site/tags/lora/</guid>
       <description></description>
     </item>
     <item>
       <title>Mesh</title>
-      <link>/tags/mesh/</link>
+      <link>https://www.iotoneai.site/tags/mesh/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.iotoneai.site/tags/mesh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meshcore</title>
+      <link>https://www.iotoneai.site/tags/meshcore/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.iotoneai.site/tags/meshcore/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xr</title>
+      <link>https://www.iotoneai.site/tags/xr/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.iotoneai.site/tags/xr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xreal-Aura</title>
+      <link>https://www.iotoneai.site/tags/xreal-aura/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.iotoneai.site/tags/xreal-aura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bootcamp</title>
+      <link>https://www.iotoneai.site/tags/bootcamp/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.iotoneai.site/tags/bootcamp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gaming</title>
+      <link>https://www.iotoneai.site/tags/gaming/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.iotoneai.site/tags/gaming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Snap-Spectacles</title>
+      <link>https://www.iotoneai.site/tags/snap-spectacles/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.iotoneai.site/tags/snap-spectacles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Synckit</title>
+      <link>https://www.iotoneai.site/tags/synckit/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.iotoneai.site/tags/synckit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fukuoka</title>
+      <link>https://www.iotoneai.site/tags/fukuoka/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.iotoneai.site/tags/fukuoka/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hackathon</title>
+      <link>https://www.iotoneai.site/tags/hackathon/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.iotoneai.site/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visiondevcamp</title>
+      <link>https://www.iotoneai.site/tags/visiondevcamp/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.iotoneai.site/tags/visiondevcamp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vr</title>
+      <link>https://www.iotoneai.site/tags/vr/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.iotoneai.site/tags/vr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iot</title>
+      <link>https://www.iotoneai.site/tags/iot/</link>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/mesh/</guid>
+      <guid>https://www.iotoneai.site/tags/iot/</guid>
       <description></description>
     </item>
     <item>
       <title>Thread</title>
-      <link>/tags/thread/</link>
+      <link>https://www.iotoneai.site/tags/thread/</link>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/thread/</guid>
+      <guid>https://www.iotoneai.site/tags/thread/</guid>
       <description></description>
     </item>
     <item>
       <title>Lensfest</title>
-      <link>/tags/lensfest/</link>
+      <link>https://www.iotoneai.site/tags/lensfest/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/lensfest/</guid>
+      <guid>https://www.iotoneai.site/tags/lensfest/</guid>
       <description></description>
     </item>
     <item>
       <title>Ces</title>
-      <link>/tags/ces/</link>
+      <link>https://www.iotoneai.site/tags/ces/</link>
       <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/ces/</guid>
+      <guid>https://www.iotoneai.site/tags/ces/</guid>
       <description></description>
     </item>
     <item>
       <title>Matter</title>
-      <link>/tags/matter/</link>
+      <link>https://www.iotoneai.site/tags/matter/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/matter/</guid>
+      <guid>https://www.iotoneai.site/tags/matter/</guid>
       <description></description>
     </item>
     <item>
       <title>Education</title>
-      <link>/tags/education/</link>
+      <link>https://www.iotoneai.site/tags/education/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/education/</guid>
+      <guid>https://www.iotoneai.site/tags/education/</guid>
       <description></description>
     </item>
     <item>
       <title>Community</title>
-      <link>/tags/community/</link>
+      <link>https://www.iotoneai.site/tags/community/</link>
       <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/community/</guid>
+      <guid>https://www.iotoneai.site/tags/community/</guid>
       <description></description>
     </item>
     <item>
       <title>Meshtastic</title>
-      <link>/tags/meshtastic/</link>
+      <link>https://www.iotoneai.site/tags/meshtastic/</link>
       <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/meshtastic/</guid>
+      <guid>https://www.iotoneai.site/tags/meshtastic/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>/tags/markdown/</link>
+      <link>https://www.iotoneai.site/tags/markdown/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/markdown/</guid>
+      <guid>https://www.iotoneai.site/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Text</title>
-      <link>/tags/text/</link>
+      <link>https://www.iotoneai.site/tags/text/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/text/</guid>
+      <guid>https://www.iotoneai.site/tags/text/</guid>
       <description></description>
     </item>
     <item>
       <title>Css</title>
-      <link>/tags/css/</link>
+      <link>https://www.iotoneai.site/tags/css/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/css/</guid>
+      <guid>https://www.iotoneai.site/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>/tags/html/</link>
+      <link>https://www.iotoneai.site/tags/html/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/html/</guid>
+      <guid>https://www.iotoneai.site/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>/tags/emoji/</link>
+      <link>https://www.iotoneai.site/tags/emoji/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/emoji/</guid>
+      <guid>https://www.iotoneai.site/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>

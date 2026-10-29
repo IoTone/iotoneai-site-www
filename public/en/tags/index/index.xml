@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Index on 株式会社IoTone Japan</title>
-    <link>/en/tags/index/</link>
+    <link>https://www.iotoneai.site/en/tags/index/</link>
     <description>Recent content in Index on 株式会社IoTone Japan</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.iotoneai.site/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>News</title>
-      <link>/en/news/</link>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid>/en/news/</guid>
+      <link>https://www.iotoneai.site/en/news/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.iotoneai.site/en/news/</guid>
       <description></description>
     </item>
   </channel>
